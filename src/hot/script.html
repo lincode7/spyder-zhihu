@@ -1,0 +1,130 @@
+<script type="text/javascript">
+
+$(document).ready(function(){
+
+	var p = 1;
+	var isloading = 0;
+	var isend = 0;
+
+	$(window).scroll(function() {
+
+	    if(($(window).scrollTop() >= $(document).height() - $(window).height()) || (p==1 && ($(window).height() + $(window).scrollTop() >= $(".filter-data").offset().top))) {
+			loadDataByDate();
+	    }
+
+	});
+
+
+	$('.dropdown-toggle').click(function(){
+		$(this).parent().toggleClass("open");
+	});
+
+	changeY();
+	$('.dropdown-menu li').click(function(){
+		var name=$('a',this).text();
+		$(this).parents('.btn-group').toggleClass("open");
+		$(this).parents('.btn-group').find('.dropdown-toggle span').text(name);
+		changeY();
+	});
+
+	function changeY(){
+		var year=$('#year').text().replace(/[^0-9]/ig,"")
+		var month=$('#month').text().replace(/[^0-9]/ig,"")
+		var d = new Date(year, month, 0);
+		var days=d.getDate();
+		var dayArr=[];
+		for(var i=1;i<=days;i++)
+		{
+			dayArr.push(i+'');
+		}
+		var last=parseInt(dayArr[dayArr.length-1]);
+		//$('.slider-container').remove();
+		if($('.slider-container').length > 0 ){
+			$('.slider').children().remove();
+			$('.slider').html('<input type="hidden" value="" class="single-slider none">');
+		}
+
+		p = 1;//第一页
+		isloading = 0;
+		isend = 0;
+
+		$('.single-slider').jRange({
+		    from:1,
+		    to:last,
+		    step: 1,
+		    scale: dayArr,
+		    format: '%s',
+		    width:$('.slider').outerWidth()-20,
+		    showLabels: true,
+		    snap: true,
+		    onstatechange:function () {
+				p = 1;
+				isloading = 0;
+				isend = 0;
+				loadDataByDate();
+            }
+		});
+	}
+
+
+	function loadDataByDate(){
+		var year=$('#year').text().replace(/[^0-9]/ig,"");
+		var month=$('#month').text().replace(/[^0-9]/ig,"");
+		var day=$('.single-slider').val();
+
+		if(isloading || isend){
+			return ;
+		}
+
+
+		$.ajax({
+			method: "POST",
+		    url: "/do",
+		    data: {
+		      p: p,
+		      day:(year+"-"+month+"-"+day),
+		      nodeid:6,
+		      t: "itemsbydate",
+		      c: "node",
+		    },
+		    dataType: 'json',
+		    beforeSend: function () {
+				isloading = 1;
+				$(".infinite-scroll-request").show();
+				$(".infinite-scroll-last").hide();
+				$(".infinite-scroll-error").hide();
+		    },
+		    success: function ( data ) {
+				if(!data.error){
+					var s = '';
+					$.each(data.data.items, function(i, v) {
+						var index = i + 1;
+						s += '<tr><td align="center" width="80px">'+v.time+'</td><td class="al"><a href="'+v.url+'" target="_blank" rel="nofollow" itemid="'+v.ID+'">'+v.title+'</a></td><td>'+v.extra+'</td><td align="right"><a class="collect-a" href="'+v.url+'" title="查看详细" target="_blank" rel="nofollow" itemid="'+v.ID+'"><i class="m-n">&#xe652;</i></a></td></tr>';
+				    });
+				    if(p==1) $(".filter-data").empty();
+				    $(".filter-data").append(s);
+
+	                if( data.data.items.length < 20 ) {
+						$(".infinite-scroll-request").hide();
+						$(".infinite-scroll-last").show();
+						$(".infinite-scroll-error").hide();
+						isend = 1;
+	                }
+				    p++;
+				}
+				isloading = 0;
+
+		      },
+		      error: function () {
+					isloading = 0;
+					alert('加载失败，请重试');
+		      }
+		});
+
+	}
+
+
+
+})
+
+</script>

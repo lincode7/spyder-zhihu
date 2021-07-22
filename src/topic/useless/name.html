@@ -1,0 +1,319 @@
+'<!DOCTYPE html>\n
+<html lang="zh">\n
+<head>\n
+    <meta charset="UTF-8"/>
+    \n
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    \n
+    <meta http-equiv="X-UA-Compatible" content="ie=edge,chrome=1"/>
+    \n
+    <meta name="renderer" content="webkit"/>
+    \n
+    <meta name="force-rendering" content="webkit"/>
+    \n<title>404 - 知乎</title>\n
+    <link
+    \nrel="shortcut icon"\nhref="//static.zhihu.com/static/img/favicon.ico"\n/>\n
+    <style>\nbody, \nh1, \np, \npre {
+        \nmargin: 0;
+        \n
+    }
+
+    \nbody {
+        \nfont-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", \n "PingFang SC", "Microsoft YaHei", "Source Han Sans SC", \n "Noto Sans CJK SC", "WenQuanYi Micro Hei", sans-serif;
+        \n
+    }
+
+    \na {
+        \ntext-decoration: none;
+        \n
+    }
+
+    \n</style>
+    \n
+    <style>\n.Button {
+        \nbackground: none;
+        \nborder: none;
+        \ncursor: pointer;
+        \ndisplay: inline-block;
+        \nfont-size: 14px;
+        \npadding: 0;
+        \ntext-align: center;
+        \n
+    }
+
+    \n.Button:focus {
+        \noutline: none;
+        \ntransition: box-shadow 0.3s;
+        \n
+    }
+
+    \n /* 暂时没有用 focus visiable */ \n.Button:focus {
+        \nbox-shadow: 0 0 0 2px #ffffff, 0 0 0 4px rgba(0, 132, 255, 0.3);
+        \n
+    }
+
+    \nhtml[data-theme="dark"] .Button:focus {
+        \nbox-shadow: 0 0 0 2px #1a1a1a, 0 0 0 4px rgba(58, 118, 208, 0.6);
+        \n
+    }
+
+    \n.Button--primary {
+        \nborder: 1px solid;
+        \nborder-radius: 3px;
+        \nline-height: 32px;
+        \npadding: 0 16px;
+        \n
+    }
+
+    \n.Button--primary.Button--blue {
+        \nbackground-color: #0084ff;
+        \nborder-color: #0084ff;
+        \ncolor: #fff;
+        \n
+    }
+
+    \nhtml[data-theme="dark"] .Button--primary.Button--blue {
+        \nbackground-color: #3a76d0;
+        \nborder-color: #3a76d0;
+        \ncolor: #fff;
+        \n
+    }
+
+    \n.Button--primary.Button--blue:hover {
+        \nbackground-color: #0077e6;
+        \nborder-color: #0077e6;
+        \n
+    }
+
+    \nhtml[data-theme="dark"] .Button--primary.Button--blue:hover {
+        \nbackground-color: #2e69c2;
+        \nborder-color: #2e69c2;
+        \n
+    }
+
+    \n.Button--plain.Button--blue {
+        \ncolor: #0084ff;
+        \n
+    }
+
+    \nhtml[data-theme="dark"] .Button--plain.Button--blue {
+        \ncolor: #3a76d0;
+        \n
+    }
+
+    \n.Button--plain.Button--blue:hover {
+        \ncolor: #0077e6;
+        \n
+    }
+
+    \nhtml[data-theme="dark"] .Button--plain.Button--blue:hover {
+        \ncolor: #2e69c2;
+        \n
+    }
+
+    \n</style>
+    \n
+    <style>\nbody {
+        \n /* cc(GBK99A) */ \nbackground: #fff;
+        \n
+    }
+
+    \nhtml[data-theme="dark"] body {
+        \nbackground: #1a1a1a;
+        \n
+    }
+
+    \n.ErrorPage-container {
+        \ndisplay: flex;
+        \njustify-content: center;
+        \nmargin-top: 180px;
+        \n
+    }
+
+    \n
+
+    @media (max-width: 690px) {
+        \n.ErrorPage-container {
+            \nalign-items: center;
+            \nflex-direction: column-reverse;
+            \nmargin-top: 60px;
+            \n
+        }
+
+        \n
+    }
+
+    \n.ErrorPage-title, \n.ErrorPage-subtitle {
+        \n /* cc(GBK04A) */ \ncolor: #646464;
+        \nline-height: 1.4;
+        \n
+    }
+
+    \nhtml[data-theme="dark"] .ErrorPage-title, \nhtml[data-theme="dark"] .ErrorPage-subtitle {
+        \ncolor: #999;
+        \n
+    }
+
+    \n.ErrorPage-title {
+        \nfont-size: 40px;
+        \n /* @mixin bold; */ \nfont-synthesis: style;
+        \nfont-weight: 600;
+        \n
+    }
+
+    \nhtml[data-ios] .ErrorPage-title {
+        \nfont-weight: 500;
+        \n
+    }
+
+    \nhtml[data-android] .ErrorPage-title {
+        \nfont-weight: 700;
+        \n
+    }
+
+    \n
+
+    @media (max-width: 690px) {
+        \n.ErrorPage-title {
+            \nfont-size: 30px;
+            \n
+        }
+
+        \n
+    }
+
+    \n.ErrorPage-subtitle {
+        \nfont-size: 18px;
+        \nmargin-top: 10px;
+        \n
+    }
+
+    \n.ErrorPage-text {
+        \nalign-items: flex-start;
+        \ndisplay: flex;
+        \nflex-direction: column;
+        \njustify-content: center;
+        \nmin-width: 384px;
+        \n
+    }
+
+    \n
+
+    @media (max-width: 690px) {
+        \n.ErrorPage-text {
+            \nalign-items: center;
+            \nmin-width: auto;
+            \n
+        }
+
+        \n
+    }
+
+    \n.ErrorPage-primaryButton {
+        \nmargin-top: 20px;
+        \n
+    }
+
+    \n.ErrorPage-otherButtonContainer {
+        \nalign-items: center;
+        \n /* cc(GBL01A) */ \ncolor: #0084ff;
+        \ndisplay: flex;
+        \nfont-size: 14px;
+        \nmargin-top: 20px;
+        \n /* @mixin bold; */ \nfont-synthesis: style;
+        \nfont-weight: 600;
+        \n
+    }
+
+    \nhtml[data-theme="dark"] .ErrorPage-otherButtonContainer {
+        \ncolor: #3a76d0;
+        \n
+    }
+
+    \nhtml[data-ios] .ErrorPage-otherButtonContainer {
+        \nfont-weight: 500;
+        \n
+    }
+
+    \nhtml[data-android] .ErrorPage-otherButtonContainer {
+        \nfont-weight: 700;
+        \n
+    }
+
+    \n.ErrorPage-otherButton {
+        \nalign-items: center;
+        \ndisplay: flex;
+        \nmargin-left: 0.5em;
+        \n /* @mixin bold; */ \nfont-synthesis: style;
+        \nfont-weight: 600;
+        \n
+    }
+
+    \nhtml[data-ios] .ErrorPage-otherButton {
+        \nfont-weight: 500;
+        \n
+    }
+
+    \nhtml[data-android] .ErrorPage-otherButton {
+        \nfont-weight: 700;
+        \n
+    }
+
+    \n.ErrorPage-errorImageContainer {
+        \nalign-items: center;
+        \ndisplay: flex;
+        \nheight: 250px;
+        \njustify-content: center;
+        \nmargin-left: 20px;
+        \nwidth: 250px;
+        \n
+    }
+
+    \n
+
+    @media (max-width: 690px) {
+        \n.ErrorPage-errorImageContainer {
+            \nmargin-left: 0;
+            \n
+        }
+
+        \n
+    }
+
+    \n</style>
+    \n
+</head>
+\n
+<body>\n
+<div class="ErrorPage">\n
+    <div class="ErrorPage-container">\n
+        <div class="ErrorPage-text">\n<h1 class="ErrorPage-title">404</h1>\n<p class="ErrorPage-subtitle">
+            你似乎来到了没有知识存在的荒原</p>\n<a\nclass="Button Button--primary Button--blue
+            ErrorPage-primaryButton"\nhref="https://www.zhihu.com"\n>\n去往首页\n</a>\n
+            <div class="ErrorPage-otherButtonContainer">\n或者\n
+                <button
+                \nclass="Button Button--plain Button--blue ErrorPage-otherButton ErrorPage-goBackButton"\n>\n返回上页\n
+                <svg
+                \nclass="Zi Zi--ArrowRight"\nfill="currentColor"\nviewBox="0 0 24 24"\nwidth="24px"\nheight="24px"\n>\n
+                <path
+                \nd="M9.218 16.78a.737.737 0 0 0 1.052 0l4.512-4.249a.758.758 0 0 0 0-1.063L10.27 7.22a.737.737 0 0
+                0-1.052 0 .759.759 0 0 0-.001 1.063L13 12l-3.782 3.716a.758.758 0 0 0 0
+                1.063z"\nfill-rule="evenodd"\n></path>\n</svg>\n</button>\n
+            </div>
+            \n
+        </div>
+        \n
+        <div class="ErrorPage-errorImageContainer">\n<img\nclass="ErrorPage-errorImage"\nsrc="//zhstatic.zhihu.com/assets/error/liukanshan_wire.svg"\nalt="page
+            error"\n/>\n
+        </div>
+        \n
+    </div>
+    \n
+</div>
+\n
+<script
+\nasync\nsrc="//unpkg.zhimg.com/za-js-sdk@latest/dist/zap.js"\nonload="zap.trackPageShow()"\n></script>\n < script >\n// https://stackoverflow.com/a/15724300\nfunction getCookie(name) {\nlet value = "; " + document.cookie;\nlet parts = value.split("; " + name + "=");\nif (parts.length == 2) {\nreturn parts\n.pop()\n.split(";")\n.shift();\n}\nreturn null;\n}\nif (navigator.userAgent.match(/iPhone|iPad|iPod/)) {\ndocument.documentElement.dataset.ios = "";\n}\nif (navigator.userAgent.match(/Android/)) {\ndocument.documentElement.dataset.android = "";\n}\nlet queryTheme;\nif (typeof URLSearchParams !== "undefined") {\n// 这里不启用根据 query 等设置 cookie 的功能这种复杂逻辑\nconst params = new URLSearchParams(window.location.search);\nqueryTheme = params.get("theme");\n}\nconst cookieTheme = getCookie("theme");\nconst theme = queryTheme || cookieTheme || "light";\ndocument.documentElement.dataset.theme = theme;\nconst goBackButton = document.querySelector(".ErrorPage-goBackButton");\ngoBackButton.addEventListener("click", function(e) {\nhistory.go(-1);\n});\n</script>
+\n
+</body>
+\n
+</html>'

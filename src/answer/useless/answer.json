@@ -1,0 +1,613 @@
+{
+  "ad_info": {
+    "ad": {
+      "ad_verb": "",
+      "brand": {
+        "id": 0,
+        "logo": "https://pic2.zhimg.com/v2-1a571caf874eae474800000609c49299_250x250.jpeg",
+        "name": "尚德机构"
+      },
+      "category": 1,
+      "click_tracks": [
+        "https://sugar.zhihu.com/plutus_adreaper?pdi=1516006653832020\u0026pf=3\u0026tu=https%3A%2F%2Flp.sunlandvip.com%2F23691%2FCN%2Fpc%2Fa25tPD%2Findex.html%3Fplan_id%3D1464457%26creative_id%3Dpctw-jd-19%26cb%3D__CALLBACK__\u0026idi=11003\u0026ed=CjEEfh4wM31_EWRQBTF4VkZwXHlZbm50dkR_BVNpeh1fcg59Cntvcy8TNFEXMTYNWXYPbFkqPn1_EWJUCGh6FhssBHwJcW15fwMxDgxheAVYfAB8HiAufX4DMQgMYXQGTSdJdwl7bGYiUG9XFyUlDVpyCGQKcWlufBdkSQBifBYfNgR7DnFucH8XYlQIq853eIllGd8%3D\u0026nt=0\u0026ar=0.0007536451551572884\u0026au=510\u0026ut=024f8ffe642149a0a7f5250d1c31bd78"
+      ],
+      "close_track": "https://sugar.zhihu.com/plutus_adreaper?tu=https%3A%2F%2Flp.sunlandvip.com%2F23691%2FCN%2Fpc%2Fa25tPD%2Findex.html%3Fplan_id%3D1464457%26creative_id%3Dpctw-jd-19%26cb%3D__CALLBACK__\u0026pf=3\u0026ed=CjEEfR4wM31_EWRQBTF4VkZwXHlZbm50dkR_BVNpeh1fcg59Cntvcy8TNFEXMTYNWXYPbFkqPn1_EWJUCGh6FhssBHwJcW15fwMxDgxheAVYfAB8HiAufX4DMQgMYXQGTSdJdwl7bGYiUG9XFyUlDVpyCGQKcWlufBdkSQBifBYfNgR7DnFucH8XYlQI9JJSSb5-tZE%3D\u0026ar=0.0007536451551572884\u0026idi=11003\u0026nt=0\u0026pdi=1516006653832020\u0026ut=024f8ffe642149a0a7f5250d1c31bd78\u0026au=510",
+      "close_tracks": [
+        "https://sugar.zhihu.com/plutus_adreaper?tu=https%3A%2F%2Flp.sunlandvip.com%2F23691%2FCN%2Fpc%2Fa25tPD%2Findex.html%3Fplan_id%3D1464457%26creative_id%3Dpctw-jd-19%26cb%3D__CALLBACK__\u0026pf=3\u0026ed=CjEEfR4wM31_EWRQBTF4VkZwXHlZbm50dkR_BVNpeh1fcg59Cntvcy8TNFEXMTYNWXYPbFkqPn1_EWJUCGh6FhssBHwJcW15fwMxDgxheAVYfAB8HiAufX4DMQgMYXQGTSdJdwl7bGYiUG9XFyUlDVpyCGQKcWlufBdkSQBifBYfNgR7DnFucH8XYlQI9JJSSb5-tZE%3D\u0026ar=0.0007536451551572884\u0026idi=11003\u0026nt=0\u0026pdi=1516006653832020\u0026ut=024f8ffe642149a0a7f5250d1c31bd78\u0026au=510"
+      ],
+      "conversion_tracks": [
+        "https://sugar.zhihu.com/plutus_adreaper?tu=https%3A%2F%2Flp.sunlandvip.com%2F23691%2FCN%2Fpc%2Fa25tPD%2Findex.html%3Fplan_id%3D1464457%26creative_id%3Dpctw-jd-19%26cb%3D__CALLBACK__\u0026idi=11003\u0026pf=3\u0026au=510\u0026ed=CjEEfx4wM31_EWRQBTF4VkZwXHlZbm50dkR_BVNpeh1fcg59Cntvcy8TNFEXMTYNWXYPbFkqPn1_EWJUCGh6FhssBHwJcW15fwMxDgxheAVYfAB8HiAufX4DMQgMYXQGTSdJdwl7bGYiUG9XFyUlDVpyCGQKcWlufBdkSQBifBYfNgR7DnFucH8XYlQIvsRHWKGguUM%3D\u0026ut=024f8ffe642149a0a7f5250d1c31bd78\u0026nt=0\u0026pdi=1516006653832020\u0026ar=0.0007536451551572884"
+      ],
+      "creatives": [
+        {
+          "app_promotion_url": "",
+          "brand": {
+            "id": 0,
+            "logo": "https://pic2.zhimg.com/v2-1a571caf874eae474800000609c49299_250x250.jpeg",
+            "name": "尚德机构"
+          },
+          "cta": {
+            "value": "查看详情"
+          },
+          "description": "名校热门专业只考2门，学信网终身可查，300分满分170分就能上，点击查询985/211院校专业信息与学费",
+          "footer": {
+            "value": ""
+          },
+          "landing_url": "https://lp.sunlandvip.com/23691/CN/pc/a25tPD/index.html?plan_id=1464457\u0026creative_id=pctw-jd-19\u0026cb=https%3A%2F%2Fsugar.zhihu.com%2Fplutus_adreaper_callback%3Fsi%3D14674a4f-5e3a-448a-bb96-47772853a6f6%26os%3D3%26zid%3D236%26zaid%3D1403986%26zcid%3D1453996%26cid%3D1453995%26event%3D__EVENTTYPE__%26value%3D__EVENTVALUE__%26ts%3D__TIMESTAMP__%26cts%3D__TS__%26mh%3D__MEMBERHASHID__",
+          "title": "在成都，不用辞职就能读985研究生！双证到手，只考2门！"
+        }
+      ],
+      "debug_tracks": [
+        "https://sugar.zhihu.com/plutus_adreaper?tu=https%3A%2F%2Flp.sunlandvip.com%2F23691%2FCN%2Fpc%2Fa25tPD%2Findex.html%3Fplan_id%3D1464457%26creative_id%3Dpctw-jd-19%26cb%3D__CALLBACK__\u0026au=510\u0026nt=0\u0026pf=3\u0026idi=11003\u0026pdi=1516006653832020\u0026ed=CjEEcx4wM31_EWRQBTF4VkZwXHlZbm50dkR_BVNpeh1fcg59Cntvcy8TNFEXMTYNWXYPbFkqPn1_EWJUCGh6FhssBHwJcW15fwMxDgxheAVYfAB8HiAufX4DMQgMYXQGTSdJdwl7bGYiUG9XFyUlDVpyCGQKcWlufBdkSQBifBYfNgR7DnFucH8XYlQIbTpMm6dEHbk%3D\u0026ut=024f8ffe642149a0a7f5250d1c31bd78\u0026ar=0.0007536451551572884"
+      ],
+      "display_advertising_tag": true,
+      "download_silent": false,
+      "experiment_info": "{}",
+      "id": 1403986,
+      "impression_tracks": [
+        "https://sugar.zhihu.com/plutus_adreaper?ar=0.0007536451551572884\u0026pdi=1516006653832020\u0026au=510\u0026ut=024f8ffe642149a0a7f5250d1c31bd78\u0026tu=https%3A%2F%2Flp.sunlandvip.com%2F23691%2FCN%2Fpc%2Fa25tPD%2Findex.html%3Fplan_id%3D1464457%26creative_id%3Dpctw-jd-19%26cb%3D__CALLBACK__\u0026idi=11003\u0026nt=0\u0026ed=CjEEeB4wM31_EWRQBTF4VkZwXHlZbm50dkR_BVNpeh1fcg59Cntvcy8TNFEXMTYNWXYPbFkqPn1_EWJUCGh6FhssBHwJcW15fwMxDgxheAVYfAB8HiAufX4DMQgMYXQGTSdJdwl7bGYiUG9XFyUlDVpyCGQKcWlufBdkSQBifBYfNgR7DnFucH8XYlQIOeI1Qsy5Jyk%3D\u0026pf=3"
+      ],
+      "is_evergreen": false,
+      "is_new_webview": true,
+      "is_speeding": false,
+      "is_webp": false,
+      "land_prefetch": false,
+      "name": "",
+      "native_prefetch": true,
+      "party_id": -2,
+      "revert_close_track": "https://sugar.zhihu.com/plutus_adreaper?ar=0.0007536451551572884\u0026tu=https%3A%2F%2Flp.sunlandvip.com%2F23691%2FCN%2Fpc%2Fa25tPD%2Findex.html%3Fplan_id%3D1464457%26creative_id%3Dpctw-jd-19%26cb%3D__CALLBACK__\u0026pdi=1516006653832020\u0026pf=3\u0026ed=CjEEch4wM31_EWRQBTF4VkZwXHlZbm50dkR_BVNpeh1fcg59Cntvcy8TNFEXMTYNWXYPbFkqPn1_EWJUCGh6FhssBHwJcW15fwMxDgxheAVYfAB8HiAufX4DMQgMYXQGTSdJdwl7bGYiUG9XFyUlDVpyCGQKcWlufBdkSQBifBYfNgR7DnFucH8XYlQIKkmh9cOJjyA%3D\u0026nt=0\u0026au=510\u0026idi=11003\u0026ut=024f8ffe642149a0a7f5250d1c31bd78",
+      "template": "web_word",
+      "view_track": "https://sugar.zhihu.com/plutus_adreaper?pdi=1516006653832020\u0026idi=11003\u0026ut=024f8ffe642149a0a7f5250d1c31bd78\u0026nt=0\u0026au=510\u0026ar=0.0007536451551572884\u0026pf=3\u0026ed=CjEEeR4wM31_EWRQBTF4VkZwXHlZbm50dkR_BVNpeh1fcg59Cntvcy8TNFEXMTYNWXYPbFkqPn1_EWJUCGh6FhssBHwJcW15fwMxDgxheAVYfAB8HiAufX4DMQgMYXQGTSdJdwl7bGYiUG9XFyUlDVpyCGQKcWlufBdkSQBifBYfNgR7DnFucH8XYlQIiVeHyJ-ELbk%3D\u0026tu=https%3A%2F%2Flp.sunlandvip.com%2F23691%2FCN%2Fpc%2Fa25tPD%2Findex.html%3Fplan_id%3D1464457%26creative_id%3Dpctw-jd-19%26cb%3D__CALLBACK__",
+      "view_tracks": [
+        "https://sugar.zhihu.com/plutus_adreaper?pdi=1516006653832020\u0026idi=11003\u0026ut=024f8ffe642149a0a7f5250d1c31bd78\u0026nt=0\u0026au=510\u0026ar=0.0007536451551572884\u0026pf=3\u0026ed=CjEEeR4wM31_EWRQBTF4VkZwXHlZbm50dkR_BVNpeh1fcg59Cntvcy8TNFEXMTYNWXYPbFkqPn1_EWJUCGh6FhssBHwJcW15fwMxDgxheAVYfAB8HiAufX4DMQgMYXQGTSdJdwl7bGYiUG9XFyUlDVpyCGQKcWlufBdkSQBifBYfNgR7DnFucH8XYlQIiVeHyJ-ELbk%3D\u0026tu=https%3A%2F%2Flp.sunlandvip.com%2F23691%2FCN%2Fpc%2Fa25tPD%2Findex.html%3Fplan_id%3D1464457%26creative_id%3Dpctw-jd-19%26cb%3D__CALLBACK__"
+      ],
+      "za_ad_info": "CNLYVRDsASIBMV3qmMFOYKzfWA==",
+      "za_ad_info_json": "{\"ad_id\":1403986,\"ad_zone_id\":236,\"category\":\"1\",\"timestamp\":1624012000,\"creative_id\":1453996}"
+    },
+    "adjson": "{\"ads\":[{\"id\":1403986,\"ad_zone_id\":236,\"template\":\"web_word\",\"impression_tracks\":[\"https://sugar.zhihu.com/plutus_adreaper?au=510\\u0026ed=CjEEeB4wM31_EWRQBTF4VkZwXHlZbm50dkR_BVNpeh1fcg59Cntvcy8TNFEXMTYNWXYPbFkqPn1_EWJUCGh6FhssBHwJcW15fwMxDgxheAVYfAB8HiAufX4DMQgMYXQGTSdJdwl7bGYiUG9XFyUlDVpyCGQKcWlufBdkSQBifBYfNgR7DnFucH8XYlQIOeI1Qsy5Jyk%3D\\u0026ar=0.0007536451551572884\\u0026pdi=1516006653832020\\u0026tu=https%3A%2F%2Flp.sunlandvip.com%2F23691%2FCN%2Fpc%2Fa25tPD%2Findex.html%3Fplan_id%3D1464457%26creative_id%3Dpctw-jd-19%26cb%3D__CALLBACK__\\u0026idi=11003\\u0026nt=0\\u0026pf=3\\u0026ut=024f8ffe642149a0a7f5250d1c31bd78\"],\"view_tracks\":[\"https://sugar.zhihu.com/plutus_adreaper?pdi=1516006653832020\\u0026ut=024f8ffe642149a0a7f5250d1c31bd78\\u0026nt=0\\u0026idi=11003\\u0026ed=CjEEeR4wM31_EWRQBTF4VkZwXHlZbm50dkR_BVNpeh1fcg59Cntvcy8TNFEXMTYNWXYPbFkqPn1_EWJUCGh6FhssBHwJcW15fwMxDgxheAVYfAB8HiAufX4DMQgMYXQGTSdJdwl7bGYiUG9XFyUlDVpyCGQKcWlufBdkSQBifBYfNgR7DnFucH8XYlQIiVeHyJ-ELbk%3D\\u0026pf=3\\u0026au=510\\u0026ar=0.0007536451551572884\\u0026tu=https%3A%2F%2Flp.sunlandvip.com%2F23691%2FCN%2Fpc%2Fa25tPD%2Findex.html%3Fplan_id%3D1464457%26creative_id%3Dpctw-jd-19%26cb%3D__CALLBACK__\"],\"click_tracks\":[\"https://sugar.zhihu.com/plutus_adreaper?ed=CjEEfh4wM31_EWRQBTF4VkZwXHlZbm50dkR_BVNpeh1fcg59Cntvcy8TNFEXMTYNWXYPbFkqPn1_EWJUCGh6FhssBHwJcW15fwMxDgxheAVYfAB8HiAufX4DMQgMYXQGTSdJdwl7bGYiUG9XFyUlDVpyCGQKcWlufBdkSQBifBYfNgR7DnFucH8XYlQIq853eIllGd8%3D\\u0026tu=https%3A%2F%2Flp.sunlandvip.com%2F23691%2FCN%2Fpc%2Fa25tPD%2Findex.html%3Fplan_id%3D1464457%26creative_id%3Dpctw-jd-19%26cb%3D__CALLBACK__\\u0026nt=0\\u0026au=510\\u0026ar=0.0007536451551572884\\u0026ut=024f8ffe642149a0a7f5250d1c31bd78\\u0026pdi=1516006653832020\\u0026pf=3\\u0026idi=11003\"],\"close_tracks\":[\"https://sugar.zhihu.com/plutus_adreaper?ed=CjEEfR4wM31_EWRQBTF4VkZwXHlZbm50dkR_BVNpeh1fcg59Cntvcy8TNFEXMTYNWXYPbFkqPn1_EWJUCGh6FhssBHwJcW15fwMxDgxheAVYfAB8HiAufX4DMQgMYXQGTSdJdwl7bGYiUG9XFyUlDVpyCGQKcWlufBdkSQBifBYfNgR7DnFucH8XYlQI9JJSSb5-tZE%3D\\u0026idi=11003\\u0026tu=https%3A%2F%2Flp.sunlandvip.com%2F23691%2FCN%2Fpc%2Fa25tPD%2Findex.html%3Fplan_id%3D1464457%26creative_id%3Dpctw-jd-19%26cb%3D__CALLBACK__\\u0026pdi=1516006653832020\\u0026ar=0.0007536451551572884\\u0026ut=024f8ffe642149a0a7f5250d1c31bd78\\u0026nt=0\\u0026pf=3\\u0026au=510\"],\"debug_tracks\":[\"https://sugar.zhihu.com/plutus_adreaper?ut=024f8ffe642149a0a7f5250d1c31bd78\\u0026pf=3\\u0026idi=11003\\u0026nt=0\\u0026au=510\\u0026ed=CjEEcx4wM31_EWRQBTF4VkZwXHlZbm50dkR_BVNpeh1fcg59Cntvcy8TNFEXMTYNWXYPbFkqPn1_EWJUCGh6FhssBHwJcW15fwMxDgxheAVYfAB8HiAufX4DMQgMYXQGTSdJdwl7bGYiUG9XFyUlDVpyCGQKcWlufBdkSQBifBYfNgR7DnFucH8XYlQIbTpMm6dEHbk%3D\\u0026ar=0.0007536451551572884\\u0026tu=https%3A%2F%2Flp.sunlandvip.com%2F23691%2FCN%2Fpc%2Fa25tPD%2Findex.html%3Fplan_id%3D1464457%26creative_id%3Dpctw-jd-19%26cb%3D__CALLBACK__\\u0026pdi=1516006653832020\"],\"conversion_tracks\":[\"https://sugar.zhihu.com/plutus_adreaper?ar=0.0007536451551572884\\u0026idi=11003\\u0026ed=CjEEfx4wM31_EWRQBTF4VkZwXHlZbm50dkR_BVNpeh1fcg59Cntvcy8TNFEXMTYNWXYPbFkqPn1_EWJUCGh6FhssBHwJcW15fwMxDgxheAVYfAB8HiAufX4DMQgMYXQGTSdJdwl7bGYiUG9XFyUlDVpyCGQKcWlufBdkSQBifBYfNgR7DnFucH8XYlQIvsRHWKGguUM%3D\\u0026pf=3\\u0026pdi=1516006653832020\\u0026tu=https%3A%2F%2Flp.sunlandvip.com%2F23691%2FCN%2Fpc%2Fa25tPD%2Findex.html%3Fplan_id%3D1464457%26creative_id%3Dpctw-jd-19%26cb%3D__CALLBACK__\\u0026ut=024f8ffe642149a0a7f5250d1c31bd78\\u0026nt=0\\u0026au=510\"],\"extra_conversion_tracks\":{\"call_back\":[\"https://sugar.zhihu.com/plutus_adreaper_callback?si=14674a4f-5e3a-448a-bb96-47772853a6f6\\u0026os=3\\u0026zid=236\\u0026zaid=1403986\\u0026zcid=1453996\\u0026cid=1453995\\u0026event=__EVENTTYPE__\\u0026value=__EVENTVALUE__\\u0026ts=__TIMESTAMP__\\u0026cts=__TS__\\u0026mh=__MEMBERHASHID__\"]},\"za_ad_info\":\"CNLYVRDsASIBMV3qmMFOYKzfWA==\",\"za_ad_info_json\":\"{\\\"ad_id\\\":1403986,\\\"ad_zone_id\\\":236,\\\"category\\\":\\\"1\\\",\\\"timestamp\\\":1624012000,\\\"creative_id\\\":1453996}\",\"creatives\":[{\"id\":1453996,\"asset\":{\"brand_name\":\"尚德机构\",\"brand_logo\":\"https://pic2.zhimg.com/v2-1a571caf874eae474800000609c49299_250x250.jpeg\",\"title\":\"在成都，不用辞职就能读985研究生！双证到手，只考2门！\",\"desc\":\"名校热门专业只考2门，学信网终身可查，300分满分170分就能上，点击查询985/211院校专业信息与学费\",\"landing_url\":\"https://lp.sunlandvip.com/23691/CN/pc/a25tPD/index.html?plan_id=1464457\\u0026creative_id=pctw-jd-19\\u0026cb=https%3A%2F%2Fsugar.zhihu.com%2Fplutus_adreaper_callback%3Fsi%3D14674a4f-5e3a-448a-bb96-47772853a6f6%26os%3D3%26zid%3D236%26zaid%3D1403986%26zcid%3D1453996%26cid%3D1453995%26event%3D__EVENTTYPE__%26value%3D__EVENTVALUE__%26ts%3D__TIMESTAMP__%26cts%3D__TS__%26mh%3D__MEMBERHASHID__\",\"img_size\":0,\"cta\":\"查看详情\",\"native_asset\":{}}}],\"expand\":{\"display_advertising_tag\":true,\"download_silent\":false,\"is_new_webview\":true,\"is_cdn_speeding\":false,\"is_apk_market_direct\":false,\"interactive\":{\"deliver_time\":\"25 分钟前\",\"browse_string\":\"37.1 万\",\"participate_string\":\"680 \",\"slide_time_one\":3,\"slide_time_two\":10,\"slide_end\":true,\"deep_link_jump_time\":10}},\"experiment_info\":\"{}\",\"view_x_tracks\":[\"https://sugar.zhihu.com/plutus_adreaper?au=510\\u0026ed=CjEEewhlKSlzFGZRBmQtBA1oDC8LInd0eh0zSlMydQZGcQ59D3FidX1EZAEHdi1KVncKfB4iMyRzFGZXAml0Bk01UHcOcmh3dxR0BFhtfQRedgBzDmU5NHMVdARebX0IXWNbOgVyYnZoSSdaAXY5WVZ0DnsWcWhzYBdgUR9hfgBNMUp3CXVodH4UYFcCaaHjVS9K2uru\\u0026tu=https%3A%2F%2Flp.sunlandvip.com%2F23691%2FCN%2Fpc%2Fa25tPD%2Findex.html%3Fplan_id%3D1464457%26creative_id%3Dpctw-jd-19%26cb%3D__CALLBACK__\\u0026pf=3\\u0026ar=0.0007536451551572884\\u0026nt=0\\u0026pdi=1516006653832020\\u0026ut=024f8ffe642149a0a7f5250d1c31bd78\\u0026idi=11003\"],\"mobile_experiment\":{\"ad_backPlugin\":\"0\",\"ad_bannerShow\":\"0\",\"ad_bannerView\":\"0\",\"ad_comm_70\":\"0\",\"ad_ht\":\"0\",\"ad_markPlugin\":\"0\",\"ad_new_rt\":\"0\",\"ad_pausePlugin\":\"0\",\"ad_pre_web\":\"0\",\"ad_ps_ab\":\"0\",\"ad_resume_ab\":\"0\",\"ad_room_delete\":\"0\",\"ad_sdk_skip\":\"0\",\"ad_wake_lock\":\"0\",\"adx_verify\":\"0\",\"andr_pre_web\":\"0\",\"back_plugin\":\"0\",\"canvas_mp2wc\":\"0\",\"dd_send\":\"0\",\"diamond_city_rb\":\"0\",\"dsp_replace\":\"0\",\"dwc_add_click\":\"0\",\"feed_adv_new\":\"0\",\"feed_advance\":\"0\",\"ins_add_click\":\"0\",\"launch_ad_end\":\"0\",\"mark_plugin\":\"0\",\"notify_new\":\"0\",\"notify_page\":\"0\",\"outside_banner\":\"0\",\"pause_plugin\":\"0\"}}]}",
+    "position": 3
+  },
+  "data": [
+    {
+      "id": 795347238,
+      "type": "answer",
+      "answer_type": "normal",
+      "question": {
+        "type": "question",
+        "id": 24667783,
+        "title": "如何提高高中化学成绩？",
+        "question_type": "normal",
+        "created": 1406687402,
+        "updated_time": 1431737747,
+        "url": "https://www.zhihu.com/api/v4/questions/24667783",
+        "relationship": {}
+      },
+      "author": {
+        "id": "8cbb44cc6ca3d396b300d0b00e6f7d41",
+        "url_token": "he-cha-ren-33",
+        "name": "高中化学孙环宇",
+        "avatar_url": "https://pic4.zhimg.com/v2-0d4de94cf2b6efd073a54b44267c1e8e_l.jpg?source=1940ef5c",
+        "avatar_url_template": "https://pic2.zhimg.com/v2-0d4de94cf2b6efd073a54b44267c1e8e.jpg?source=1940ef5c",
+        "is_org": false,
+        "type": "people",
+        "url": "https://www.zhihu.com/api/v4/people/8cbb44cc6ca3d396b300d0b00e6f7d41",
+        "user_type": "people",
+        "headline": "王羽课堂高中化学老师",
+        "badge": [],
+        "badge_v2": {
+          "title": "",
+          "merged_badges": [],
+          "detail_badges": [],
+          "icon": "",
+          "night_icon": ""
+        },
+        "gender": 1,
+        "is_advertiser": false,
+        "follower_count": 13664,
+        "is_followed": false,
+        "is_privacy": false,
+        "vip_info": {
+          "is_vip": false
+        }
+      },
+      "url": "https://www.zhihu.com/api/v4/answers/795347238",
+      "is_collapsed": false,
+      "created_time": 1566265395,
+      "updated_time": 1574824853,
+      "extras": "",
+      "is_copyable": true,
+      "is_normal": true,
+      "voteup_count": 40,
+      "comment_count": 3,
+      "is_sticky": false,
+      "admin_closed_comment": false,
+      "comment_permission": "all",
+      "can_comment": {
+        "reason": "",
+        "status": true
+      },
+      "reshipment_settings": "allowed",
+      "content": "\u003cp\u003e\u003cb\u003e高分学长为你带来最全面的高中化学提分宝典！\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e集结【学习方法】【复习攻略】【考试技巧】等模块分析\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e你要的答案这个回答都有，赶紧收藏下来吧~\u003c/b\u003e\u003c/p\u003e\u003cp\u003e看看框架图，了解一下本文主要内容~\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic1.zhimg.com/50/v2-a120fc5b9e637485df793ee736de34cb_hd.jpg?source=1940ef5c\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1442\" data-rawheight=\"874\" data-default-watermark-src=\"https://pic4.zhimg.com/50/v2-dfb55a6d1c35d100210ddcdfa9677d3b_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb\" width=\"1442\" data-original=\"https://pic1.zhimg.com/v2-a120fc5b9e637485df793ee736de34cb_r.jpg?source=1940ef5c\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;1442\u0026#39; height=\u0026#39;874\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1442\" data-rawheight=\"874\" data-default-watermark-src=\"https://pic4.zhimg.com/50/v2-dfb55a6d1c35d100210ddcdfa9677d3b_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1442\" data-original=\"https://pic1.zhimg.com/v2-a120fc5b9e637485df793ee736de34cb_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-a120fc5b9e637485df793ee736de34cb_hd.jpg?source=1940ef5c\"/\u003e\u003c/figure\u003e\u003ch2\u003e\u003cb\u003e一、平时怎么学\u003c/b\u003e\u003c/h2\u003e\u003cp\u003e\u003cb\u003e（一）基础知识\u003c/b\u003e\u003c/p\u003e\u003cp\u003e想要学好任何一门学科都要掌握好基础知识，化学的学习也是一样，基础知识一定要牢固。化学的基本概念、理论和规律是学好化学的关键。\u003c/p\u003e\u003cp\u003e另外，化学的学习都是分模块的，但是各模块之间还是有联系的，所以想要提高化学成绩还是要正确的处理化学概念之间的联系和区别。\u003c/p\u003e\u003cp\u003e\u003cb\u003e（二）重视化学实验\u003c/b\u003e\u003c/p\u003e\u003cp\u003e想要学好化学，还是要重视化学实验，化学实验可以让高中生通过简单的现象来反应出化学本质。所以，高中生想要提高化学成绩，要弄清实验本质，掌握好化学知识，并提高动手能力尤为重要。\u003c/p\u003e\u003cp\u003e\u003cb\u003e（三）课前预习\u003c/b\u003e\u003c/p\u003e\u003cp\u003e想要学好化学，提高化学成绩，预习是少不了的。预习时遇到的疑难点，而自己又一时解决不了的，就把他们集中起来记录在笔记本中，这样在听课时就可以更有针对性。另外，也可以通过参考书来解决问题，提高自己的自学能力。\u003c/p\u003e\u003cp\u003e\u003cb\u003e（四）课后复习及总结\u003c/b\u003e\u003c/p\u003e\u003cp\u003e一节课下来，能够认认真真听讲，并且能够听懂的真的是少之又少，那么总结就显得格外重要了，及时总结。\u003c/p\u003e\u003cp\u003e有的同学不知道怎么总结，其实你明白了就很简单，比如氧气这一节，我们可以大致按氧气的物理性质、氧气的实验室室制法、氧气的化学性质、氧气的用途等方面进行总结。以后，每个气体都按这个模式。这样，每天都总结，记忆的效果就好。知识点就记得牢固。\u003c/p\u003e\u003cp\u003e\u003cb\u003e（五）多背诵\u003c/b\u003e\u003c/p\u003e\u003cp\u003e化学的元素周期表，方程式就那几个规律，质量守恒和电子守恒，元素守恒也在质量守恒等等。一大堆要记的东西需要我们去记的，记的时候更需要考虑他们的化学反应，这是非常重要的，记忆与理解结合这才是化学的正确学习方法。\u003c/p\u003e\u003cp\u003e\u003cb\u003e（六）看网课\u003c/b\u003e\u003c/p\u003e\u003cp\u003e有的同学到了家里就不知道怎么学习，也少有人督促，导致被别人拉开差距。其实在家的时候可以通过看网课来学习，网课也是一个巩固知识及学习东西的地方。化学的网课我要给大家安利一波梅南捷老师！\u003c/p\u003e\u003cp\u003e腾讯课堂闪电课堂的梅老师教龄丰富，有独特的教学思维，对题型的归类整理也很细，丰富的教学经验使梅老师的教学能够深入简出，学生很容易学懂。\u003c/p\u003e\u003cp\u003e这无论是对于需要靠技巧来多拿分的基础比较差的学生，还是需要掌握一些技巧来得到更高突破的尖子生都是一位很好的辅导老师。\u003c/p\u003e\u003cp\u003e\u003cb\u003e（七）错题集\u003c/b\u003e\u003c/p\u003e\u003cp\u003e首先，我们可以去找一个本子，专门记录自己不会的，以备平时重点复习和考试前强化记忆。\u003c/p\u003e\u003cp\u003e还有一个就是错题本，我觉得任何一门学科，都应该要有自己的错题本，因为错题本真的很重要，正所谓：“考场一分钟，平时十年功”“处处留心皆学问”“好记性不如烂笔头”\u003c/p\u003e\u003cp\u003e记录本与错题本的存在可以大大地提高你复习的效率，所以是非常重要的，而且很多时候，你错了的题，如果不去总结与抄写在错题本上，那么你很容易会做错第二次，第三次甚至更多。考前的复习，就当然是要复习平时自己易错的知识点和没有弄清楚的地方，而这些都应当在你的小本本才是的。\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic4.zhimg.com/50/v2-85cfba48b13e015afb712bfcf88a8655_hd.jpg?source=1940ef5c\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"305\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-41941d6e988cd47ea98636adabc24762_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic2.zhimg.com/v2-85cfba48b13e015afb712bfcf88a8655_r.jpg?source=1940ef5c\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;500\u0026#39; height=\u0026#39;305\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"305\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-41941d6e988cd47ea98636adabc24762_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic2.zhimg.com/v2-85cfba48b13e015afb712bfcf88a8655_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-85cfba48b13e015afb712bfcf88a8655_hd.jpg?source=1940ef5c\"/\u003e\u003c/figure\u003e\u003ch2\u003e\u003cb\u003e二、记忆小技巧\u003c/b\u003e\u003c/h2\u003e\u003cp\u003e\u003cb\u003e（一）口诀记忆\u003c/b\u003e\u003c/p\u003e\u003cp\u003e由于知识点多，记忆量大，在化学学习中往往会出现一些很容易记住的口诀，老师要求我们去记忆它。首先，要告诉自己这是一种学习的捷径，然后在深刻的理解它的内涵，最后记住了，就会成为你学习化学的利器。如：“升失氧，降得还”、“见量化摩，求啥先求摩”、“有弱才水解，都强不水解。谁弱谁水解，谁强显谁性。越热越水解，越弱越水解”。 \u003c/p\u003e\u003cp\u003e\u003cb\u003e（二）理解记忆\u003c/b\u003e\u003c/p\u003e\u003cp\u003e对所学知识进行分析、综合、比较、归纳总结，找出内在联系及规律，然后记忆这些带有规律性的知识。如：在记忆氧化还原反应、离子反应、化学平衡、电离平衡等概念，必须在理解的意义前提下去记忆。特别是有关化学原理，化学计算，化学方程式的记忆，如果没有理解记忆是很难掌握的。\u003c/p\u003e\u003cp\u003e\u003cb\u003e（三）归类记忆\u003c/b\u003e\u003c/p\u003e\u003cp\u003e对所学知识进行系统分类，抓住特征，在以此类推。如：电解质判断的时候，把所学的化合物归类，再把强电解质弱、电解质的包含的类别记住，对于我们掌握本质就很有帮助;再如：在掌握了各个主族、周期的相似性和递变性规律后，对于具体的元素单质、化合物的性质就容易多了。\u003c/p\u003e\u003cp\u003e\u003cb\u003e（四）对比记忆\u003c/b\u003e\u003c/p\u003e\u003cp\u003e对新旧知识中具有相似性和对立性的有关知识进行比较，找出异同点。比如：中学化学中常见的黄色粉末并不多见，主要就是硫磺和过氧化钠，但是它们的性质却很不相同。再如：我们在学习硫酸和硝酸的时候，他们作为氧化性酸的酸性和强氧化性的方面的相似性。\u003c/p\u003e\u003cp\u003e\u003cb\u003e（五）知识网络记忆\u003c/b\u003e\u003c/p\u003e\u003cp\u003e用表格或图示进行归纳、整理，使看似零散的知识结成网络。如以一主族代表元素的单质、氧化物、氧化物的水化物、盐为线索的学习思路，以及以结构、物理性质、化学性质、用途、制备、保存之间相互关联的元素化合物类知识，在有机中还要特别注意官能团的性质。\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic1.zhimg.com/50/v2-03cc75bca2a7704163244be3077d3791_hd.jpg?source=1940ef5c\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"391\" data-rawheight=\"220\" data-default-watermark-src=\"https://pic4.zhimg.com/50/v2-c5210366d76a6ec98cd8a40a80bfca63_hd.jpg?source=1940ef5c\" class=\"content_image\" width=\"391\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;391\u0026#39; height=\u0026#39;220\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"391\" data-rawheight=\"220\" data-default-watermark-src=\"https://pic4.zhimg.com/50/v2-c5210366d76a6ec98cd8a40a80bfca63_hd.jpg?source=1940ef5c\" class=\"content_image lazy\" width=\"391\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-03cc75bca2a7704163244be3077d3791_hd.jpg?source=1940ef5c\"/\u003e\u003c/figure\u003e\u003ch2\u003e\u003cb\u003e三、复习攻略\u003c/b\u003e\u003c/h2\u003e\u003cp\u003e\u003cb\u003e（一）依纲扣本，狠抓双基，构建知识网络\u003c/b\u003e\u003c/p\u003e\u003cp\u003e化学试题紧依中学教学大纲，遵循考试说明，立足课本，非常重视对考生基本知识和基本技能的考查，难题比例很小，学科间综合题很少。\u003c/p\u003e\u003cp\u003e因此，在近年高考中，凡是基础扎实，思维灵活，答题规范的考生，一般都能取得较好的成绩。\u003c/p\u003e\u003cp\u003e同学们要明确学习目标，自主构建完整的知识网络，做到有序储存，灵活应用，从而使双基教学真正落到实处。\u003c/p\u003e\u003cp\u003e\u003cb\u003e（二）深研考题，确立专题，力求各个击破\u003c/b\u003e\u003c/p\u003e\u003cp\u003e在基础复习完成后，就应该在深入研究近年高考试题的基础上，打破原教材的编排，选择教材中基础的、核心的知识内容，确立专题，目的在于深化双基，进一步梳理知识结构，强调和突出重点，解决基本思想和方法的落实，提高学生的应试能力。\u003c/p\u003e\u003cp\u003e根据历年高考试题热点及化学教材体系中的重点，我认为可以确立以下专题：\u003c/p\u003e\u003cp\u003e（1）高考热点选择题，主要包括：与NA有关的计算及正误判断；离子共存问题；离子方程式正误的判断；不用试剂或用一种试剂鉴别多种物质；溶液中离子浓度大小排队；热化学方程式书写及反应热计算；氧化还原反应；溶液PH计算及判断；原子结构及元素周期表；晶体结构及化学键；化学反应速率及勒沙特列原理的应用；电化学知识；计算型选择题。\u003c/p\u003e\u003cp\u003e（2）无机推断\u003c/p\u003e\u003cp\u003e（3）有机合成及推断\u003c/p\u003e\u003cp\u003e（4）化学实验方案的设计及实验方案的选择、评价等\u003c/p\u003e\u003cp\u003e\u003cb\u003e（三）科学训练，注重讲评，提高综合解题能力\u003c/b\u003e\u003c/p\u003e\u003cp\u003e在模拟训练阶段，教师应在吸纳各地高考信息的基础上，兼顾各个考点，精选4～5套模拟题，进行定时训练，以提高答题速度和准确率为主要目的。\u003c/p\u003e\u003cp\u003e刷题同样是学习化学必不可少的过程，刷的量到位了，解题的速度才会更快，更准确！\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic4.zhimg.com/50/v2-62c1ce0480e9fde3b6619d67492d4798_hd.jpg?source=1940ef5c\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"534\" data-rawheight=\"300\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-e12ffdba85923083797494fad9d75b2e_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb\" width=\"534\" data-original=\"https://pic4.zhimg.com/v2-62c1ce0480e9fde3b6619d67492d4798_r.jpg?source=1940ef5c\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;534\u0026#39; height=\u0026#39;300\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"534\" data-rawheight=\"300\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-e12ffdba85923083797494fad9d75b2e_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"534\" data-original=\"https://pic4.zhimg.com/v2-62c1ce0480e9fde3b6619d67492d4798_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-62c1ce0480e9fde3b6619d67492d4798_hd.jpg?source=1940ef5c\"/\u003e\u003c/figure\u003e\u003ch2\u003e\u003cb\u003e四、化学常见题型\u003c/b\u003e\u003c/h2\u003e\u003cp\u003e\u003cb\u003e（一）化学计算\u003c/b\u003e\u003c/p\u003e\u003cp\u003e在高中化学中,计算题的主要功能是考查考生掌握基础知识的广度和熟练程度以及知识的系统性。这类题目考查的形式既有直接的简单化学计算和间接的应用化学原理推算,常见的方法有假设法、关系式法、差量法、守恒法等。\u003c/p\u003e\u003cp\u003e\u003cb\u003e解题方法：\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e01  假设法\u003c/b\u003e\u003c/p\u003e\u003cp\u003e所谓假设法,就是假设具有某一条件,推得一个结论,将这个结论与实际情况相对比,进行合理判断,从而确定正确选项。\u003c/p\u003e\u003cp\u003e\u003cb\u003e1.极端假设法\u003c/b\u003e\u003c/p\u003e\u003cp\u003e主要应用:\u003c/p\u003e\u003cp\u003e(1)判断混合物的组成。把混合物看成由某组分构成的纯净物进行计算,求出最大值、最小值,再进行讨论。\u003c/p\u003e\u003cp\u003e(2)判断可逆反应中某个量的关系。把可逆反应看作向左或向右进行到底的情况。\u003c/p\u003e\u003cp\u003e(3)判断可逆反应体系中气体的平均相对分子质量大小的变化。把可逆反应看成向左或向右进行的单一反应。\u003c/p\u003e\u003cp\u003e(4)判断生成物的组成。把多个平行反应看作单一反应。\u003c/p\u003e\u003cp\u003e\u003cb\u003e2.状态假设法\u003c/b\u003e\u003c/p\u003e\u003cp\u003e状态假设法是指在分析或解决问题时,根据需要,虚拟出能方便解题的中间状态,并以此为中介,实现由条件向结论转化的思维方法。该方法常在化学平衡的计算中使用。\u003c/p\u003e\u003cp\u003e3. \u003cb\u003e过程假设法\u003c/b\u003e\u003c/p\u003e\u003cp\u003e过程假设法是指将复杂的变化过程假设为(或等效为)若干个简单的、便于分析和比较的过程,考虑等效状态的量与需求量之间的关系,进而求解的方法。该方法在等效平衡的计算中使用概率非常高。\u003c/p\u003e\u003cp\u003e\u003cb\u003e4.变向假设法\u003c/b\u003e\u003c/p\u003e\u003cp\u003e变向假设法指在解题时根据需要改变研究问题的条件或结论,从一个新的角度来分析问题,进而迁移到需要解决的问题上来,从而得到正确的答案。\u003c/p\u003e\u003cp\u003e\u003cb\u003e02  关系式法\u003c/b\u003e\u003c/p\u003e\u003cp\u003e在多步反应中,关系式法可以把始态的反应物与终态的生成物之间的“物质的量”关系表示出来,把多步计算简化成一步计算。正确书写关系式是用关系式法解化学计算题的前提。\u003c/p\u003e\u003cp\u003e\u003cb\u003e1.根据化学方程式找关系式\u003c/b\u003e\u003c/p\u003e\u003cp\u003e特点:在多步反应中,上一步反应的产物即是下一步反应的反应物。\u003c/p\u003e\u003cp\u003e\u003cb\u003e2.通过化学反应方程式的叠加找关系\u003c/b\u003e\u003c/p\u003e\u003cp\u003e适用于多步连续反应或循环反应。方法:将其中几个有关联的化学反应方程式进行适当变形(改变化学计量数),然后相加,消去中间产物,即得总的化学反应方程式。\u003c/p\u003e\u003cp\u003e\u003cb\u003e03  差量法\u003c/b\u003e\u003c/p\u003e\u003cp\u003e差量法解题的关键是正确找出理论差量。其解题步骤如下:\u003c/p\u003e\u003cp\u003e(1)分析题意:分析化学反应中各物质之间的数量关系,弄清引起差值的原因。\u003c/p\u003e\u003cp\u003e(2)确定是否能用差量法:分析差值与始态量或终态量之间是否存在比例关系,以确定是否能用差量法。\u003c/p\u003e\u003cp\u003e(3)写出正确的化学反应方程式。\u003c/p\u003e\u003cp\u003e(4)根据题意确定“理论差量”与题中提供的“实际差量”,列出比例关系,求出答案。\u003c/p\u003e\u003cp\u003e\u003cb\u003e04  守恒法\u003c/b\u003e\u003c/p\u003e\u003cp\u003e“守恒法”利用物质变化过程中某一特定的量固定不变来列式求解。它的优点是用宏观的统揽全局的方式列式,不去探求某些细枝末节,直接抓住其中特有的守恒关系,快速建立算式,简捷巧妙地解答题目。常用的方法有质量守恒、得失电子守恒、电荷守恒等。\u003c/p\u003e\u003cp\u003e\u003cb\u003e1.质量守恒\u003c/b\u003e\u003c/p\u003e\u003cp\u003e依据:化学反应中反应物的总质量与生成物的总质量相等。\u003c/p\u003e\u003cp\u003e\u003cb\u003e2.电子得失守恒\u003c/b\u003e\u003c/p\u003e\u003cp\u003e依据:氧化还原反应中得失电子数一定相等。\u003c/p\u003e\u003cp\u003e应用:氧化还原反应和电化学的有关计算。\u003c/p\u003e\u003cp\u003e\u003cb\u003e3.电荷守恒\u003c/b\u003e\u003c/p\u003e\u003cp\u003e依据:反应前后参加反应的离子所带的电荷总量不变(或在电解质溶液中阴、阳离子所带的负、正电荷总数相等)。\u003c/p\u003e\u003cp\u003e方法:首先要确定体系,并找出体系中阴、阳离子的种类,每个离子所带的电荷数及其物质的量;然后根据阴、阳离子所带的电荷总数相等列出计算式。\u003c/p\u003e\u003cp\u003e应用:溶液中离子浓度关系的推断,也可用于有关量的计算。\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic4.zhimg.com/50/v2-3114e3917de0dc9e6d87ebb63075dba2_hd.jpg?source=1940ef5c\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"533\" data-rawheight=\"300\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-25c4d36ee724978a2c4a7eafde7a231c_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb\" width=\"533\" data-original=\"https://pic1.zhimg.com/v2-3114e3917de0dc9e6d87ebb63075dba2_r.jpg?source=1940ef5c\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;533\u0026#39; height=\u0026#39;300\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"533\" data-rawheight=\"300\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-25c4d36ee724978a2c4a7eafde7a231c_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"533\" data-original=\"https://pic1.zhimg.com/v2-3114e3917de0dc9e6d87ebb63075dba2_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-3114e3917de0dc9e6d87ebb63075dba2_hd.jpg?source=1940ef5c\"/\u003e\u003c/figure\u003e\u003cp\u003e\u003cb\u003e（二）化学反应图像\u003c/b\u003e\u003c/p\u003e\u003cp\u003e化学反应图像题的特征是将一些关键的信息以图像、图表的形式给出,把题目中的化学原理抽象为数学问题,目的是考查考生从图像、图表中获得信息、处理和应用相关信息的能力以及对图像、图表的数学意义和化学意义之间对应关系的转换运用能力。\u003c/p\u003e\u003cp\u003e\u003cb\u003e解题方法：\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e01  离子反应图像\u003c/b\u003e\u003c/p\u003e\u003cp\u003e考查知识点:根据图像考查反应发生的先后顺序、书写离子反应方程式、分析溶液的成分、离子的共存与推断、计算反应物的量或由离子反应画出相应的图像等。\u003c/p\u003e\u003cp\u003e实质:离子反应图像问题,归根结底,考查的实质仍然是离子反应和离子共存问题。\u003c/p\u003e\u003cp\u003e\u003cb\u003e1.离子反应图像\u003c/b\u003e\u003c/p\u003e\u003cp\u003e溶液中存在多种还原剂(或氧化剂),加入同一种氧化剂(或还原剂)时,必须按照“强者先行”的原则,考虑反应的先后顺序。只有当“强”的反应完后,“弱”的才能发生反应。\u003c/p\u003e\u003cp\u003e\u003cb\u003e2.离子共存及离子计算图像\u003c/b\u003e\u003c/p\u003e\u003cp\u003e离子共存图像要谨防离子共存的陷阱,特别要注意一些隐含条件和隐性关系;离子计算的前提是掌握离子反应方程式的书写,特别要注意物质间量的关系,遵循三大守恒原则和溶液电中性原则。\u003c/p\u003e\u003cp\u003e\u003cb\u003e02  化学平衡图像\u003c/b\u003e\u003c/p\u003e\u003cp\u003e化学平衡图像是中学化学基础图像知识的一个重要方面,它能把抽象的化学平衡理论形象直观地表述出来。化学平衡图像题是高考必考题型之一,根据图像坐标表示的意义,将常考的化学平衡图像分成如下三类。\u003c/p\u003e\u003cp\u003e\u003cb\u003e1.量值-时间图像\u003c/b\u003e\u003c/p\u003e\u003cp\u003e图像中的纵、横轴分别代表物质的数量(如浓度、百分含量、转化率、产率等)与反应时间(过程),将可逆反应中物质的数量随时间的变化体现在图像中。\u003c/p\u003e\u003cp\u003e该类题解答时要明确曲线“走势”代表的意义,并由此确定反应进行的方向,再进一步确定改变的条件。千万要注意此类图像中可能出现的“交点”并不代表平衡点,只有某种量值不随时间改变时的点才是平衡点。\u003c/p\u003e\u003cp\u003e\u003cb\u003e2.量值-条件图像\u003c/b\u003e\u003c/p\u003e\u003cp\u003e将物质或反应体系的某种量值与温度、压强、浓度、催化剂中的某一种之间的关系,反映在图像中。解答时首先要仔细观察图像,找出相关量值间的变化关系,然后将图像中的这种对应关系与理论知识进行对照,分析其是否符合理论上推导出来的关系,最后确定答案。\u003c/p\u003e\u003cp\u003e\u003cb\u003e3.量值-时间-条件图像\u003c/b\u003e\u003c/p\u003e\u003cp\u003e该类图像反映的是某一物质的量值(如浓度、转化率、产率、百分含量等)与一种或两种外界条件(温度、压强、催化剂)随时间的变化关系。其图像构成的特征是图像中有一表明反应已达到平衡的突变点(平衡点、最大值、最小值)。\u003c/p\u003e\u003cp\u003e解题思路:依建立平衡所需时间的长短→反应速率的相对大小(时间短速率大)→确定影响反应速率的不同条件间的关系(反应速率大条件强)→再根据物质量值的变化判断平衡的移动方向,由此得出的移动方向应与由勒夏特列原理确定的方向一致。\u003c/p\u003e\u003cp\u003e\u003cb\u003e03  电化学图像\u003c/b\u003e\u003c/p\u003e\u003cp\u003e近年高考中对电化学的考查出现了新的变化,以装置图为载体来考查电化学的相关知识,成为近年高考的新亮点。\u003c/p\u003e\u003cp\u003e\u003cb\u003e1.原电池和电解池的工作原理\u003c/b\u003e\u003c/p\u003e\u003cp\u003e破解关键:正、负极或阴、阳极的判断。\u003c/p\u003e\u003cp\u003e\u003cb\u003e2.原电池与电解池的互变\u003c/b\u003e\u003c/p\u003e\u003cp\u003e原电池与电解池可以相互转化,利用这一原理可以制造二次电池。二次电池中,放电时是原电池,充电时是电解池,放电时的负极反应与充电时的阴极反应相反,放电时的正极反应与充电时的阳极反应相反。\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic2.zhimg.com/50/v2-a5c6c9b9a442b0f26e88c9c749a90062_hd.jpg?source=1940ef5c\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"533\" data-rawheight=\"300\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-522efe8e007b2f4dd88916a81f868391_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb\" width=\"533\" data-original=\"https://pic4.zhimg.com/v2-a5c6c9b9a442b0f26e88c9c749a90062_r.jpg?source=1940ef5c\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;533\u0026#39; height=\u0026#39;300\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"533\" data-rawheight=\"300\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-522efe8e007b2f4dd88916a81f868391_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"533\" data-original=\"https://pic4.zhimg.com/v2-a5c6c9b9a442b0f26e88c9c749a90062_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic2.zhimg.com/50/v2-a5c6c9b9a442b0f26e88c9c749a90062_hd.jpg?source=1940ef5c\"/\u003e\u003c/figure\u003e\u003cp\u003e\u003cb\u003e（三）实验仪器的创新\u003c/b\u003e\u003c/p\u003e\u003cp\u003e实验仪器的创新使用一般体现为三个“一”:一个装置的多种用途、一种用途的多种装置和一种仪器的多种用法,该类试题主要考查考生的思维发散能力。\u003c/p\u003e\u003cp\u003e\u003cb\u003e01  球形干燥管的创新使用\u003c/b\u003e\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic1.zhimg.com/50/v2-939f47f3c9bd170c9087e723cc69861d_hd.jpg?source=1940ef5c\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1269\" data-rawheight=\"330\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-524e6396bbd2d0147882d0a491401c70_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb\" width=\"1269\" data-original=\"https://pic1.zhimg.com/v2-939f47f3c9bd170c9087e723cc69861d_r.jpg?source=1940ef5c\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;1269\u0026#39; height=\u0026#39;330\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1269\" data-rawheight=\"330\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-524e6396bbd2d0147882d0a491401c70_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1269\" data-original=\"https://pic1.zhimg.com/v2-939f47f3c9bd170c9087e723cc69861d_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-939f47f3c9bd170c9087e723cc69861d_hd.jpg?source=1940ef5c\"/\u003e\u003c/figure\u003e\u003cp\u003e1.A装置为尾气吸收装置,用来防倒吸,原理类似于倒置在水中的漏斗。\u003c/p\u003e\u003cp\u003e2.B装置为简易的过滤器,可净化天然水。如果去掉上边两层,可用活性炭对液体中的色素进行吸附。\u003c/p\u003e\u003cp\u003e3.C装置是一微型反应器。该装置既可节约药品,又可防止污染。如铜丝在该装置中燃烧时,Cl2封闭在干燥管内,实验结束后剩余的Cl2不仅可以用水吸收,还可以观察CuCl2溶液的颜色。\u003c/p\u003e\u003cp\u003e4.D装置为一简易的启普发生器, 可用于H2、CO2等的制取。\u003c/p\u003e\u003cp\u003e5.E装置起干燥、除杂或缓冲气流的作用。\u003c/p\u003e\u003cp\u003e\u003cb\u003e02  仪器连接的创新与改进\u003c/b\u003e\u003c/p\u003e\u003col\u003e\u003cli\u003e仪器巧妙连接,取代启普发生器\u003c/li\u003e\u003c/ol\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic1.zhimg.com/50/v2-fa9d72b08f0e1801e29afa4391663359_hd.jpg?source=1940ef5c\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1270\" data-rawheight=\"311\" data-default-watermark-src=\"https://pic4.zhimg.com/50/v2-caa8550705ca9ad91fc951055614aa53_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb\" width=\"1270\" data-original=\"https://pic4.zhimg.com/v2-fa9d72b08f0e1801e29afa4391663359_r.jpg?source=1940ef5c\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;1270\u0026#39; height=\u0026#39;311\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1270\" data-rawheight=\"311\" data-default-watermark-src=\"https://pic4.zhimg.com/50/v2-caa8550705ca9ad91fc951055614aa53_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1270\" data-original=\"https://pic4.zhimg.com/v2-fa9d72b08f0e1801e29afa4391663359_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-fa9d72b08f0e1801e29afa4391663359_hd.jpg?source=1940ef5c\"/\u003e\u003c/figure\u003e\u003cp\u003e2.仪器创新连接,防止尾气倒吸\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic1.zhimg.com/50/v2-fbc67f3f52dba6e5801cdceefb207ed3_hd.jpg?source=1940ef5c\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"222\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-b51661db5e297418ba4ddba4bd81f74e_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-fbc67f3f52dba6e5801cdceefb207ed3_r.jpg?source=1940ef5c\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;640\u0026#39; height=\u0026#39;222\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"222\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-b51661db5e297418ba4ddba4bd81f74e_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-fbc67f3f52dba6e5801cdceefb207ed3_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-fbc67f3f52dba6e5801cdceefb207ed3_hd.jpg?source=1940ef5c\"/\u003e\u003c/figure\u003e\u003cp\u003e(1)倒立漏斗式:这种装置可以增大气体与吸收液的接触面积,有利于吸收液吸收气体。当易溶性气体被吸收液吸收时,导管内压强减小,吸收液上升到漏斗中。由于漏斗容积较大,导致烧杯中的液面下降,使漏斗口脱离烧杯中的液面,漏斗中的吸收液受自身重力的作用又流回烧杯内,从而防止吸收液倒吸。\u003c/p\u003e\u003cp\u003e(2)肚容式:当易溶于吸收液的气体被吸收液吸收后,导气管内压强减小,使吸收液倒吸进干燥管中,吸收液受自身重力的作用又流回烧杯内,从而防止吸收液倒吸。这种装置与倒立漏斗式的功能类似。\u003c/p\u003e\u003cp\u003e(3)蓄液式:当吸收液发生倒吸时,倒吸进来的吸收液被预先设置的蓄液装置贮存起来,以防止吸收液进入受热仪器或反应容器中。\u003c/p\u003e\u003cp\u003e(4)脱离式:因导管没有与液体接触,从而无法产生倒吸。\u003c/p\u003e\u003cp\u003e(5)液防式:通过改变试剂的方法达到防倒吸的目的。如吸收HCl时,HCl不溶于四氯化碳而无法倒吸,HCl从四氯化碳中逸出进入水中而溶解。\u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic1.zhimg.com/50/v2-7e690dfa2d8cd805d94d8df14c891117_hd.jpg?source=1940ef5c\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"503\" data-rawheight=\"300\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-a6e575330acea67a29dffd9ed148facb_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb\" width=\"503\" data-original=\"https://pic1.zhimg.com/v2-7e690dfa2d8cd805d94d8df14c891117_r.jpg?source=1940ef5c\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;503\u0026#39; height=\u0026#39;300\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"503\" data-rawheight=\"300\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-a6e575330acea67a29dffd9ed148facb_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"503\" data-original=\"https://pic1.zhimg.com/v2-7e690dfa2d8cd805d94d8df14c891117_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-7e690dfa2d8cd805d94d8df14c891117_hd.jpg?source=1940ef5c\"/\u003e\u003c/figure\u003e\u003ch2\u003e\u003cb\u003e五、考试技巧\u003c/b\u003e\u003c/h2\u003e\u003cp\u003e\u003cb\u003e（一）时间规划\u003c/b\u003e\u003c/p\u003e\u003cp\u003e首先，合理分配考试时间。根据学科分值分配和难易程度来分配时间，一般生物学约需要30分钟，化学约需要50分钟，物理约需要60分钟，余下的10～15分钟作为机动时间，用于重点检查或补做难题。\u003c/p\u003e\u003cp\u003e从试卷类型上分，第一卷用时约45分钟，第二卷用时约90分钟，留15分钟当机动时间。要做到合理安排时间，最主要的问题是速度，原则是“稳中求快，准确性第一”。没有准确性的快更不可取，因为对大多数考生来讲，理综考试几乎没有检查的时间。\u003c/p\u003e\u003cp\u003e\u003cb\u003e（二）题型\u003c/b\u003e\u003c/p\u003e\u003cp\u003e\u003cb\u003e1、选择题答题技巧\u003c/b\u003e\u003c/p\u003e\u003cp\u003e对于化学选择题，有很多技巧，比如我们可以用排除法、比较法、代入法、猜测法等等，我们在答题的时候要注意审题，避免掉入题目的陷阱里。解题方法是多样的，不同的题型适合不同的方法，有时候我们解决选择题是从题干出发，但是有时候我们换个思维，从选项中去验证哪个才是正确的答案。\u003c/p\u003e\u003cp\u003e\u003cb\u003e2、 解答题答题技巧\u003c/b\u003e\u003c/p\u003e\u003cp\u003e1）化学方程式\u003c/p\u003e\u003cp\u003e我们在写化学方程式的时候要考虑三点，首先方程式有没有配平，第二点就是反应的条件有没有写，第三点就有没有写少反应物质。\u003c/p\u003e\u003cp\u003e2）专用术语\u003c/p\u003e\u003cp\u003e化学考试有时候会叫我们写实验的操作步奏和实验的反应现象，这些都是要靠文字来表达的，如果没有掌握化学的专用术语，用我们口头语去回答问题就容易因表达不规范而丢分。\u003c/p\u003e\u003cp\u003e\u003cb\u003e3、计算型填空答题技巧\u003c/b\u003e\u003c/p\u003e\u003cp\u003e计算填空题是化学必考题型，面对这种题型，首先我们在审题的时候要注意数字与单位，要看看填空后面的单位到底是什么，还有当我们得出最后数值的时候，我们一定要书写单位，不然会被扣分的。\u003c/p\u003e\u003cp\u003e我猜你还想知道这些\u003c/p\u003e\u003ca href=\"https://www.zhihu.com/question/24675908/answer/789003495\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic4.zhimg.com/v2-6ae1931c772ae009ddafbbca9baa61bb_180x120.jpg\" data-image-width=\"534\" data-image-height=\"300\" class=\"internal\"\u003e在学习高中物理的过程中有没有什么好的经验可以分享？\u003c/a\u003e\u003ca href=\"https://www.zhihu.com/question/24675868/answer/787571087\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-a5567232ae0c93b29043a18467a29bb2_ipico.jpg\" data-image-width=\"720\" data-image-height=\"720\" class=\"internal\"\u003e在学习高中英语的过程中有没有什么好的经验可以分享？\u003c/a\u003e\u003cp\u003e看个小视频解压一下吧~\u003c/p\u003e\u003ca class=\"video-box\" href=\"https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1159520991528001536\" target=\"_blank\" data-video-id=\"\" data-video-playable=\"true\" data-name=\"\" data-poster=\"https://pic4.zhimg.com/v2-d82b3da6b8ef5fcbe18eef547481381b.jpg\" data-lens-id=\"1159520991528001536\"\u003e\u003cimg class=\"thumbnail\" src=\"https://pic4.zhimg.com/v2-d82b3da6b8ef5fcbe18eef547481381b.jpg\"/\u003e\u003cspan class=\"content\"\u003e\u003cspan class=\"title\"\u003e\u003cspan class=\"z-ico-extern-gray\"\u003e\u003c/span\u003e\u003cspan class=\"z-ico-extern-blue\"\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"url\"\u003e\u003cspan class=\"z-ico-video\"\u003e\u003c/span\u003ehttps://www.zhihu.com/video/1159520991528001536\u003c/span\u003e\u003c/span\u003e\u003c/a\u003e\u003cp\u003e\u003cb\u003e# 如果文章对你有帮助，不要忘了三连，\u0026lt;点赞+关注+收藏\u0026gt;\u003c/b\u003e \u003c/p\u003e\u003cp\u003e\u003cb\u003eØ【关注我】\u003c/b\u003e新鲜有料的知识与你分享\u003c/p\u003e\u003cp\u003e\u003cb\u003eØ【点赞我】\u003c/b\u003e这将是对我最大的鼓励 \u003c/p\u003e\u003cp\u003e\u003cb\u003eØ【收藏我】\u003c/b\u003e知识需要温故 \u003c/p\u003e\u003cp\u003e\u003cb\u003e让阿斌学长为你的高考路助力~~\u003c/b\u003e \u003c/p\u003e\u003cfigure data-size=\"normal\"\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic4.zhimg.com/50/v2-ddb88e9c36f51d2c94093c55a8681ab7_hd.jpg?source=1940ef5c\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"979\" data-rawheight=\"489\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-1b2399784b6972f2a0f74a708b9c5483_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb\" width=\"979\" data-original=\"https://pic4.zhimg.com/v2-ddb88e9c36f51d2c94093c55a8681ab7_r.jpg?source=1940ef5c\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;979\u0026#39; height=\u0026#39;489\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"979\" data-rawheight=\"489\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-1b2399784b6972f2a0f74a708b9c5483_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"979\" data-original=\"https://pic4.zhimg.com/v2-ddb88e9c36f51d2c94093c55a8681ab7_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-ddb88e9c36f51d2c94093c55a8681ab7_hd.jpg?source=1940ef5c\"/\u003e\u003c/figure\u003e\u003cp\u003e\u003c/p\u003e",
+      "editable_content": "",
+      "excerpt": "高分学长为你带来最全面的高中化学提分宝典！ 集结【学习方法】【复习攻略】【考试技巧】等模块分析 你要的答案这个回答都有，赶紧收藏下来吧~看看框架图，了解一下本文主要内容~ [图片] 一、平时怎么学 （一）基础知识想要学好任何一门学科都要掌握好基础知识，化学的学习也是一样，基础知识一定要牢固。化学的基本概念、理论和规律是学好化学的关键。 另外，化学的学习都是分模块的，但是各模块之间还是有联系的，所以想要提高化学成…",
+      "collapsed_by": "nobody",
+      "collapse_reason": "",
+      "annotation_action": null,
+      "mark_infos": [],
+      "relevant_info": {
+        "is_relevant": false,
+        "relevant_type": "",
+        "relevant_text": ""
+      },
+      "suggest_edit": {
+        "reason": "",
+        "status": false,
+        "tip": "",
+        "title": "",
+        "unnormal_details": {
+          "status": "",
+          "description": "",
+          "reason": "",
+          "reason_id": 0,
+          "note": ""
+        },
+        "url": ""
+      },
+      "is_labeled": false,
+      "ContentMark": null,
+      "link_card_info": {
+        "https://www.zhihu.com/question/24675868/answer/787571087": "{\"card_type\":\"card_1\",\"display\":{\"title\":\"在学习高中英语的过程中有没有什么好的经验可以分享？\",\"card_open_url\":\"https://www.zhihu.com/question/24675868/answer/787571087\",\"desc\":\"23 赞同 · 0 评论 \\u003ca class=\\\"tag type_a\\\"\\u003e回答\\u003c/a\\u003e\",\"content\":\"\\u003ca class=\\\"text normal/bold\\\" data-color=\\\"#444444\\\" data-night-color=\\\"#D3D3D3\\\"\\u003e高中化学孙环宇:\\u003c/a\\u003e 高中英语【学习习惯】【考试技巧】【网课教辅】大盘点! 这个系列的问题找学长解疑就够了~ 深扒全网给大家带来满满的干货! 听说点赞收藏的人高考英语妥妥130+! 一、学习习惯高中英语要想学习好，成绩提高快，就要保持良好的学习习惯，学习英语只要掌握四个知识点就很容易学习了，听、说、读、写四部曲是学习英语必须掌握的，下面这几个习惯可以帮助你提高英语学习四部曲的能力。 （一）经常使用英汉双解词典的习惯高中学生阅读面…\",\"image\":{\"image_url\":\"https://pic3.zhimg.com/v2-b7e15f87a74a1b2b849901a7a5b72ad6_720w.jpg\",\"ratio\":1,\"is_video\":true},\"bg_type\":\"dark\"},\"source\":{\"content_type\":\"ANSWER\",\"content_id\":\"787571087\"},\"za_data\":{\"attach_info\":\"\"}}",
+        "https://www.zhihu.com/question/24675908/answer/789003495": "{\"card_type\":\"card_1\",\"display\":{\"title\":\"在学习高中物理的过程中有没有什么好的经验可以分享？\",\"card_open_url\":\"https://www.zhihu.com/question/24675908/answer/789003495\",\"desc\":\"61 赞同 · 0 评论 \\u003ca class=\\\"tag type_a\\\"\\u003e回答\\u003c/a\\u003e\",\"content\":\"\\u003ca class=\\\"text normal/bold\\\" data-color=\\\"#444444\\\" data-night-color=\\\"#D3D3D3\\\"\\u003e高中化学孙环宇:\\u003c/a\\u003e 全网体系最全内容最详实！ 这个系列的回答看我就够了！ 今天就从【学习方法】【考试技巧】【复习规划】【教辅、网课推荐】这几方面为大家讲述高中物理的学习经验。 一、学习方法 （一）注意每个环节1、基本概念要清楚，基本规律要熟悉，基本方法要熟练。 2、独立做题，要独立地保质保量地做一些题。题目要有一定的数量，不能太少，更要有一定的质量，就是说要有一定的难度。任何人学习数理化不经过这一关是学不好的。独立解题，…\",\"image\":{\"image_url\":\"https://pic1.zhimg.com/v2-454763f928703bc765911a38c92f95c2_720w.jpg\",\"ratio\":1,\"is_video\":true},\"bg_type\":\"dark\"},\"source\":{\"content_type\":\"ANSWER\",\"content_id\":\"789003495\"},\"za_data\":{\"attach_info\":\"\"}}"
+      },
+      "reward_info": {
+        "can_open_reward": false,
+        "is_rewardable": false,
+        "reward_member_count": 0,
+        "reward_total_money": 0,
+        "tagline": ""
+      },
+      "relationship": {
+        "is_author": false,
+        "is_authorized": false,
+        "is_nothelp": false,
+        "is_thanked": false,
+        "is_recognized": false,
+        "voting": 0,
+        "upvoted_followees": []
+      },
+      "ad_answer": null
+    },
+    {
+      "id": 28558814,
+      "type": "answer",
+      "answer_type": "normal",
+      "question": {
+        "type": "question",
+        "id": 24667783,
+        "title": "如何提高高中化学成绩？",
+        "question_type": "normal",
+        "created": 1406687402,
+        "updated_time": 1431737747,
+        "url": "https://www.zhihu.com/api/v4/questions/24667783",
+        "relationship": {}
+      },
+      "author": {
+        "id": "814da966ea0d370580ece53f2763fe4b",
+        "url_token": "zhang-fei-yang-43",
+        "name": "张飞扬",
+        "avatar_url": "https://pic4.zhimg.com/254c84f6f_l.jpg?source=1940ef5c",
+        "avatar_url_template": "https://pic1.zhimg.com/254c84f6f.jpg?source=1940ef5c",
+        "is_org": false,
+        "type": "people",
+        "url": "https://www.zhihu.com/api/v4/people/814da966ea0d370580ece53f2763fe4b",
+        "user_type": "people",
+        "headline": "每一段人生都要过的精彩",
+        "badge": [],
+        "badge_v2": {
+          "title": "",
+          "merged_badges": [],
+          "detail_badges": [],
+          "icon": "",
+          "night_icon": ""
+        },
+        "gender": 1,
+        "is_advertiser": false,
+        "follower_count": 10490,
+        "is_followed": false,
+        "is_privacy": false,
+        "vip_info": {
+          "is_vip": false
+        }
+      },
+      "url": "https://www.zhihu.com/api/v4/answers/28558814",
+      "is_collapsed": false,
+      "created_time": 1406691577,
+      "updated_time": 1406691577,
+      "extras": "",
+      "is_copyable": true,
+      "is_normal": true,
+      "voteup_count": 69,
+      "comment_count": 4,
+      "is_sticky": false,
+      "admin_closed_comment": false,
+      "comment_permission": "all",
+      "can_comment": {
+        "reason": "",
+        "status": true
+      },
+      "reshipment_settings": "allowed",
+      "content": "谢邀。\u003cbr/\u003e以2014年湖北化学卷为例。分题型简单介绍学习方法。\u003cbr/\u003e原题地址：\u003ca href=\"https://link.zhihu.com/?target=http%3A//wenku.baidu.com/link%3Furl%3DWxkTjI4Xz7dPnnokhRKS4yZ1dhSxoIzGRrPKEvTollOt5IonBVE4JHE1Pc7ApNHK4Y-oFnQbfdsFush86ZNktNKk_93elEwBQDzlQvyYKgq\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\"\u003e2014年湖北高考化学试题及答案(高清)_百度文库\u003c/a\u003e\u003cbr/\u003e\u003cbr/\u003e一 \u003cb\u003e选择题\u003c/b\u003e。提高化学成绩，选择题必须全对。\u003cbr/\u003e第7题同分异构体、第8题化学与生活（基本化学反应）、第9题化学反应原理、第10题元素周期律、第11题溶解度、第12题化学实验操作、第13题化学反应原理，每一题经过简单分析应该就能快速得出答案。\u003cbr/\u003e\u003cbr/\u003e\u003cu\u003e\u003cb\u003e如何提高选择题正确率？\u003c/b\u003e\u003c/u\u003e\u003cbr/\u003e1。基础知识过关。课本上所有的方程式、章节常见题型需熟练掌握。重视基础是学习任何学科的根本。\u003cbr/\u003e2。分专题练习。如果某块知识点的选择题总是出错，一定是基础概念不熟，可以在网上找相关内容的各地高考选择题做。\u003cbr/\u003e3。采用排除法。找出每一个错误选项的错误点，才算彻底理解此题。\u003cbr/\u003e4. 练！！！每天一套化学选择题必须的。没有捷径。\u003cbr/\u003e\u003cbr/\u003e二 \u003cb\u003e实验题\u003c/b\u003e。\u003cbr/\u003e从26题看出，实验操作步骤、仪器名称、酯的化学物理性质、实验细节都是考点。\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003cu\u003e如何提高实验题分数\u003c/u\u003e\u003c/b\u003e？\u003cbr/\u003e1. 基础实验必须理解透彻。化学书上的每一个实验，从实验原理、实验步骤、实验装置、实验现象、实验结果、实验误差分析必须烂熟于心。同时思考进行扩展，可以从做的题型中总结，比如不同的实验装置的区别。\u003cbr/\u003e2。化学语言必须准确。两个字：规范。自己在高考标准答案上总结。\u003cbr/\u003e3.  总结常见题型。如第4、5问在此类题型出现过无数次，善于归纳总结也是提高实验题的最好方法。\u003cbr/\u003e4. 分析严谨透彻，对某一个反应物的性质熟悉。制备实验、除杂实验（除杂先后顺序），本题的第3问都是对反应物性质的考察。还是基础知识。\u003cbr/\u003e\u003cbr/\u003e三 \u003cb\u003e其他大题\u003c/b\u003e\u003cbr/\u003e27题化学反应原理及电化学，28题化学平衡，难度不如实验题，知识点细小。\u003cbr/\u003e\u003cbr/\u003e\u003cb\u003e\u003cu\u003e如何提高非实验题大题分数\u003c/u\u003e\u003c/b\u003e？\u003cbr/\u003e1. 每个章节知识点熟悉。这类题型大多是综合题，知识点不能有遗漏。\u003cbr/\u003e2. 计算准确、快速。 如反应热的计算、平衡常数的计算往往分值较高。\u003cbr/\u003e3. 反应式熟练、准确。反应符号、催化剂、反应物、生成物等必须准确。\u003cbr/\u003e\u003cbr/\u003e四 \u003cb\u003e选修题\u003c/b\u003e\u003cbr/\u003e一般来说选修题是送分题。答题时把握好时间，选择自己擅长的，15分保证12分以上的得分率。\u003cbr/\u003e\u003cbr/\u003e总结：提高化学成绩，总结起来无非以下几点：\u003cbr/\u003e\u003cb\u003e基础知识\u003c/b\u003e。课本，参考书钻研透。\u003cbr/\u003e\u003cb\u003e善于总结\u003c/b\u003e。错题本归纳总结。\u003cbr/\u003e\u003cb\u003e答题细心\u003c/b\u003e。不急不躁，分析透彻，答题规范。\u003cbr/\u003e\u003cbr/\u003e说起来容易，扎实打好基础，才会看到提高。\u003cbr/\u003e加油！",
+      "editable_content": "",
+      "excerpt": "谢邀。 以2014年湖北化学卷为例。分题型简单介绍学习方法。 原题地址：2014年湖北高考化学试题及答案(高清)_百度文库 一 选择题。提高化学成绩，选择题必须全对。 第7题同分异构体、第8题化学与生活（基本化学反应）、第9题化学反应原理、第10题元素周期律、第11题溶解度、第12题化学实验操作、第13题化学反应原理，每一题经过简单分析应该就能快速得出答案。 如何提高选择题正确率？ 1。基础知识过关。课本上所有的方程式、章节…",
+      "collapsed_by": "nobody",
+      "collapse_reason": "",
+      "annotation_action": null,
+      "mark_infos": [],
+      "relevant_info": {
+        "is_relevant": false,
+        "relevant_type": "",
+        "relevant_text": ""
+      },
+      "suggest_edit": {
+        "reason": "",
+        "status": false,
+        "tip": "",
+        "title": "",
+        "unnormal_details": {
+          "status": "",
+          "description": "",
+          "reason": "",
+          "reason_id": 0,
+          "note": ""
+        },
+        "url": ""
+      },
+      "is_labeled": false,
+      "ContentMark": null,
+      "reward_info": {
+        "can_open_reward": false,
+        "is_rewardable": false,
+        "reward_member_count": 0,
+        "reward_total_money": 0,
+        "tagline": ""
+      },
+      "relationship": {
+        "is_author": false,
+        "is_authorized": false,
+        "is_nothelp": false,
+        "is_thanked": false,
+        "is_recognized": false,
+        "voting": 0,
+        "upvoted_followees": []
+      },
+      "ad_answer": null
+    },
+    {
+      "id": 143677107,
+      "type": "answer",
+      "answer_type": "normal",
+      "question": {
+        "type": "question",
+        "id": 24667783,
+        "title": "如何提高高中化学成绩？",
+        "question_type": "normal",
+        "created": 1406687402,
+        "updated_time": 1431737747,
+        "url": "https://www.zhihu.com/api/v4/questions/24667783",
+        "relationship": {}
+      },
+      "author": {
+        "id": "5df26a4df26db673b658cba9e415061e",
+        "url_token": "chen-rn",
+        "name": "陈锐宁",
+        "avatar_url": "https://pic4.zhimg.com/v2-64889892692bd0929071602ec5923353_l.jpg?source=1940ef5c",
+        "avatar_url_template": "https://pic1.zhimg.com/v2-64889892692bd0929071602ec5923353.jpg?source=1940ef5c",
+        "is_org": false,
+        "type": "people",
+        "url": "https://www.zhihu.com/api/v4/people/5df26a4df26db673b658cba9e415061e",
+        "user_type": "people",
+        "headline": "生命，分享，趣味，有效",
+        "badge": [],
+        "badge_v2": {
+          "title": "",
+          "merged_badges": [],
+          "detail_badges": [],
+          "icon": "",
+          "night_icon": ""
+        },
+        "gender": 1,
+        "is_advertiser": false,
+        "follower_count": 1043,
+        "is_followed": false,
+        "is_privacy": false,
+        "vip_info": {
+          "is_vip": false
+        }
+      },
+      "url": "https://www.zhihu.com/api/v4/answers/143677107",
+      "is_collapsed": false,
+      "created_time": 1485859166,
+      "updated_time": 1485859194,
+      "extras": "",
+      "is_copyable": false,
+      "is_normal": true,
+      "voteup_count": 37,
+      "comment_count": 11,
+      "is_sticky": false,
+      "admin_closed_comment": false,
+      "comment_permission": "all",
+      "can_comment": {
+        "reason": "",
+        "status": true
+      },
+      "reshipment_settings": "need_payment",
+      "content": "作者：陈锐宁\u003cbr/\u003e链接：\u003ca href=\"https://www.zhihu.com/question/20300288/answer/143676199\" class=\"internal\"\u003e怎样提高高中化学成绩？有哪些较好的方法？ - 陈锐宁的回答 - 知乎\u003c/a\u003e\u003cbr/\u003e来源：知乎\u003cbr/\u003e著作权归作者所有，转载请联系作者获得授权。\u003cbr/\u003e\u003cbr/\u003e\u003cblockquote\u003e\u003cem\u003e高人高人，请问如何才能提高武功？\u003c/em\u003e\u003c/blockquote\u003e\n\n\u003cp\u003e华山老大岳不群和华山老大的闺女岳灵珊，他俩都有同样的问题，但高人给出的答案能一样吗？\u003c/p\u003e\n\n\n\n\u003cblockquote\u003e\u003cp\u003e\u003cem\u003e学长学长，我怎么才能学好化学呢？\u003c/em\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cem\u003e老师老师，我怎么才能提高成绩呢？\u003c/em\u003e\u003c/p\u003e\u003c/blockquote\u003e\n\n\n\n\u003cp\u003e仔细拆解，这种问题背后其实是三个子问题？\u003c/p\u003e\n\n\u003cp\u003e1、\n什么叫好？什么是高？——你的目标是啥；\u003c/p\u003e\n\n\u003cp\u003e2、\n目前能考多少分？是什么水平？——你的现状是啥；\u003c/p\u003e\n\n\u003cp\u003e3、\n你要做的事=目标-现状——你该干点啥。\u003c/p\u003e\n\n\n\n\u003cp\u003e第一个问题，目标，对于高中生而言，和你想考的学校专业对应的分数直接相关。今天我们不展开讨论这个问题，暂且用一个大家都认可的“目标”——越高越好。或者再具体点，提高个10~20分。\u003c/p\u003e\n\n\u003cp\u003e在这样的一个目标下，剩下的两个问题就十分相关了，今天我们不妨做个分类讨论，看看面对不同基础的同学，大家的问题分别在哪，原因是啥，具体该做哪些事情来提高。\u003c/p\u003e\n\n\n\n\u003cp\u003e\u003cstrong\u003e阶段1\u003c/strong\u003e\u003cstrong\u003e：老师，我一般都考不到50\u003c/strong\u003e\u003cstrong\u003e分……\u003c/strong\u003e\u003c/p\u003e\n\n\n\n\u003cblockquote\u003e\u003cp\u003e\u003cem\u003e耐心不足的老师：\u003c/em\u003e\u003cem\u003e50\u003c/em\u003e\u003cem\u003e都到不了，还想上什么大学，回家洗洗睡吧……\u003c/em\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cem\u003e别笑，看着屏幕的那个，就是说你呢！\u003c/em\u003e\u003c/p\u003e\u003c/blockquote\u003e\n\n\n\n\u003cp\u003e考到50有啥用？对于艺考生来说，化学高考拿到50分，在专业考试通过的情况下，这个分数足够进入几乎任何学校了。\u003c/p\u003e\n\n\u003cp\u003e换个角度说，每个同学其实都经历过这个阶段，只不过不少同学已经顺利通过，自己感受不到罢了。\u003c/p\u003e\n\n\n\n\u003cp\u003e\u003cstrong\u003e想在这个分数阶段突破的同学，关键就这一个字——懂！\u003c/strong\u003e\u003c/p\u003e\n\n\n\n\u003cp\u003e对应的表现也很明显，这些同学往往会有上课听不懂的情况，俗话说就是，跟不上学校进度。\u003c/p\u003e\n\n\n\n\u003cblockquote\u003e\u003cp\u003e老师：同学们，我们今天讲水溶液中的离子浓度大小比较问题。\u003c/p\u003e\n\n\u003cp\u003e你：浓度？c、m、还是n？离子？就是那个阴离子和阳离子么？\u003c/p\u003e\n\n\u003cp\u003e老师：这块知识涉及到昨天讲的水溶液中的离子种类~\u003c/p\u003e\n\n\u003cp\u003e你：离子种类是什么鬼？昨天就没听懂……\u003c/p\u003e\n\n\u003cp\u003e老师：和上一章的平衡概念~\u003c/p\u003e\n\n\u003cp\u003e你：平衡又是个什么鬼？\u003c/p\u003e\n\n\u003cp\u003e老师：还有一些离子反应的相关知识。\u003c/p\u003e\n\n\u003cp\u003e你：这是高一学过的吧？早忘光了，算了，还是趴桌子上睡吧……\u003c/p\u003e\u003c/blockquote\u003e\n\n\n\n\u003cp\u003e•       \n\u003cb\u003e不懂的根本原因是基础缺漏或能力缺漏\u003c/b\u003e\u003c/p\u003e\n\n\n\n\u003cp\u003e知识间是有关联的，优等生的知识体系就像一张渔网一样，互相关联且互相支撑，捕鱼的时候既不费力又不漏网。如果你的每个节点都缺一块，这个网恐怕都很难织出来，更别提上考场捕鱼了……\u003c/p\u003e\n\n\n\n\u003cp\u003e对于一般同学而言，每天上课听讲，回家完成作业，把里面有问题的部分当天就解决掉，是不会或很少会遇到“不懂”的问题的。这也就是多数人感受不明显的原因。\u003c/p\u003e\n\n\n\n\u003cp\u003e对于听不懂的同学，你要做的事情也很简单，把教材或课堂笔记上的内容全部理解、搞懂，配合完成教材上的例题和习题，基本就能达到50分的水平了。你要懒的话，找个一对一老师或家教帮你梳理一遍也行（每个人的漏洞不一样，班课很少有做这种基础梳理的）。\u003c/p\u003e\n\n\n\n\u003cp\u003e这个阶段能做什么题呢？举个例子：\u003c/p\u003e\n\n\n\n\u003cp\u003e\u003cfigure\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic2.zhimg.com/50/v2-68c1ec4aa4be0433df0bc4d42f6837dc_hd.jpg?source=1940ef5c\" data-rawwidth=\"435\" data-rawheight=\"191\" class=\"origin_image zh-lightbox-thumb\" width=\"435\" data-original=\"https://pic2.zhimg.com/v2-68c1ec4aa4be0433df0bc4d42f6837dc_r.jpg?source=1940ef5c\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;435\u0026#39; height=\u0026#39;191\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-rawwidth=\"435\" data-rawheight=\"191\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"435\" data-original=\"https://pic2.zhimg.com/v2-68c1ec4aa4be0433df0bc4d42f6837dc_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic2.zhimg.com/50/v2-68c1ec4aa4be0433df0bc4d42f6837dc_hd.jpg?source=1940ef5c\"/\u003e\u003c/figure\u003e以A选项为例，背后对应的知识是氧化还原反应中的得失电子守恒概念，望文生义，及时没怎么学过高中化学的同学，也能判断出A选项应该是对的。这类题目几乎都是可以通过“简单记忆”来完成的。\u003c/p\u003e\n\n\n\n\u003cp\u003e多说一点，初中化学几乎都是这个难度级别的知识，所以很多学生养成了“化学就是背”的习惯，并沿用到了高中。\u003c/p\u003e\n\n\n\n\u003cp\u003e但是，高中的题目中，只有40%（平时考试）或20%（高考）的题目是可以靠这种方法来解决的。举个高考的例子\u003c/p\u003e\n\n\n\n\u003cp\u003e2016年全国卷1卷\u003c/p\u003e\n\n\u003cp\u003e第7题\u003c/p\u003e\n\n\n\n\u003cp\u003e\u003cfigure\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic4.zhimg.com/50/v2-203cacdc2628bf8b31caaddc827b86cf_hd.jpg?source=1940ef5c\" data-rawwidth=\"503\" data-rawheight=\"171\" class=\"origin_image zh-lightbox-thumb\" width=\"503\" data-original=\"https://pic1.zhimg.com/v2-203cacdc2628bf8b31caaddc827b86cf_r.jpg?source=1940ef5c\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;503\u0026#39; height=\u0026#39;171\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-rawwidth=\"503\" data-rawheight=\"171\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"503\" data-original=\"https://pic1.zhimg.com/v2-203cacdc2628bf8b31caaddc827b86cf_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-203cacdc2628bf8b31caaddc827b86cf_hd.jpg?source=1940ef5c\"/\u003e\u003c/figure\u003e28题第一问：\u003c/p\u003e\n\n\n\n\u003cp\u003e\u003cfigure\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic4.zhimg.com/50/v2-7bd4513536d23bf561a9cb98ddb5d620_hd.jpg?source=1940ef5c\" data-rawwidth=\"308\" data-rawheight=\"36\" class=\"content_image\" width=\"308\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;308\u0026#39; height=\u0026#39;36\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-rawwidth=\"308\" data-rawheight=\"36\" class=\"content_image lazy\" width=\"308\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-7bd4513536d23bf561a9cb98ddb5d620_hd.jpg?source=1940ef5c\"/\u003e\u003c/figure\u003e真的很简单吧，不少内容初中生都会做呢，但是吧……\u003c/p\u003e\n\n\n\n\u003cp\u003e如果你想继续提分，就会进入到下一阶段\u003c/p\u003e\n\n\n\n\u003cp\u003e\u003cstrong\u003e阶段2\u003c/strong\u003e\u003cstrong\u003e：老师，我总考60\u003c/strong\u003e\u003cstrong\u003e分上下（50~70\u003c/strong\u003e\u003cstrong\u003e）\u003c/strong\u003e\u003c/p\u003e\n\n\n\n\u003cblockquote\u003e\u003cp\u003e\u003ci\u003e12月的学渣：月考，拿到分数——哈哈哈，老子及格了！62，牛不牛，就问你们牛不牛！\u003c/i\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ci\u003e1月的学渣：期末考试，拿到分数——xxx个老师，你就不能让我过个好年么？非得给我56\u003c/i\u003e\u003ci\u003e！\u003c/i\u003e\u003c/p\u003e\u003c/blockquote\u003e\n\n\n\n\u003cp\u003e同样是得失电子守恒这个概念，除了上文A选项的判断对错，于考试中你还会遇到这样的问题：\u003c/p\u003e\u003cfigure\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic4.zhimg.com/50/v2-d51f32a35bbe14b9a077247fd070f49a_hd.jpg?source=1940ef5c\" data-rawwidth=\"729\" data-rawheight=\"43\" class=\"origin_image zh-lightbox-thumb\" width=\"729\" data-original=\"https://pic1.zhimg.com/v2-d51f32a35bbe14b9a077247fd070f49a_r.jpg?source=1940ef5c\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;729\u0026#39; height=\u0026#39;43\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-rawwidth=\"729\" data-rawheight=\"43\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"729\" data-original=\"https://pic1.zhimg.com/v2-d51f32a35bbe14b9a077247fd070f49a_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-d51f32a35bbe14b9a077247fd070f49a_hd.jpg?source=1940ef5c\"/\u003e\u003c/figure\u003e\u003cp\u003e对，考试考的是得失电子守恒的应用——方程式配平。同样一个概念，考题的长相咋就差的这么大捏？\u003c/p\u003e\n\n\n\n\u003cp\u003e\u003cstrong\u003e想在这个分数阶段突破的同学，关键是第二个字——会！\u003c/strong\u003e\u003c/p\u003e\n\n\n\n\u003cp\u003e•       \n\u003cb\u003e听得懂不等于会应用，能理解也不等于会解题。\u003c/b\u003e\u003c/p\u003e\n\n\u003cp\u003e•       \n\u003cb\u003e“\u003c/b\u003e\u003cb\u003e懂”只意味着在学习过程中留下了“模糊”的印象。\u003c/b\u003e\u003c/p\u003e\n\n\u003cp\u003e•       \n\u003cb\u003e“\u003c/b\u003e\u003cb\u003e会”需要的是对于解题思路的印象“清晰深刻”。\u003c/b\u003e\u003c/p\u003e\n\n\u003cp\u003e•       \n\u003cb\u003e归纳总结是从“懂”到“会”快速过渡的唯一保障。\u003c/b\u003e\u003c/p\u003e\n\n\n\n\u003cp\u003e对于上面这个方程式配平来说，你明白“得失电子守恒”并不是解出题的充分条件。完整的方程式配平包括以下四步：\u003c/p\u003e\n\n\u003cp\u003e\u003cem\u003e1） \u003c/em\u003e\u003cem\u003e找出变价物质\u003c/em\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cem\u003e2） \u003c/em\u003e\u003cem\u003e标出升降价数\u003c/em\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cem\u003e3） \u003c/em\u003e\u003cem\u003e根据得失电子守恒，乘以对应系数\u003c/em\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003cem\u003e4） \u003c/em\u003e\u003cem\u003e根据电荷守恒、元素守恒等配平其他系数\u003c/em\u003e\u003c/p\u003e\n\n\n\n\u003cp\u003e一名好的老师，除了讲解知识之外，一定会讲类似的解题技巧或步骤——这就相当于老师帮你总结出了武功心法。如果不巧，你学校的老师没有给你总结这些，那你只能有两种方法：\u003c/p\u003e\n\n\u003cp\u003e1） 自己有时间有能力的同学，可以尝试自己归纳总结，使用参考书专门做同一类型的题目（这点非常关键，如果都是不同类型的，做了几十道你也找不到共同的方法），一般做上6道左右，你就会有一些感觉了，试着总结下来，再用总结的方法继续做6道，看看是否适用。适用的话，恭喜，你解决了一个类型的题目，可以去做别的了；如果不适用，那你还需要调整你的方法步骤，然后继续找题目验证。\u003c/p\u003e\n\n\u003cp\u003e聪明的同学应该看出来了，如果你的方法一直不适用，不断调整不断寻找，这个过程还是很耗费时间的，这时提问就是比较好的办法了，去问问你们班的学霸或者你的老师。当然，你还有另一条比较省时间但是要花钱的办法。\u003c/p\u003e\n\n\u003cp\u003e2） 找个培训班，合格的课外培训班老师都应该是主讲解题技巧和方法的。老师的好坏差别就在于方法的优劣（能不能帮你大幅度缩短解题时间及保证正确率），以及能不能让你愉快轻松地学会这个方法（课堂氛围，诸如幽默有趣）。前者保证考试能有好的结果，后者保证你能坚持学到考试~在学习压力如此大的高中年代，其实两者都挺重要的。\u003c/p\u003e\n\n\n\n\u003cp\u003e做到这些，考试题目中大多数你应该都会做了，但是这样的同学成绩往往在70左右，无法长期稳定在80分以上，这又是为啥呢？\u003c/p\u003e\n\n\n\n\u003cp\u003e\u003cstrong\u003e阶段3\u003c/strong\u003e\u003cstrong\u003e：老师，我成绩还行，但就是考不过学霸（70~90\u003c/strong\u003e\u003cstrong\u003e）\u003c/strong\u003e\u003c/p\u003e\n\n\n\n\u003cblockquote\u003e\u003cp\u003e\u003ci\u003e牛A童鞋：哎呀，这次考试卷子我又没做完，还差一道半大题，时间就不够了。\u003c/i\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ci\u003e牛C童鞋：我写是写完了，但赶赶落落的，拿回卷子一看，三道大题有七八个小错误，最后加一块也没得几分。\u003c/i\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ci\u003e牛B童鞋：为啥交卷前我还有二十多分钟没事干呢？\u003c/i\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ci\u003e牛A\u0026amp;C\u003c/i\u003e\u003ci\u003e：讨打！！！\u003c/i\u003e\u003c/p\u003e\u003c/blockquote\u003e\n\n\n\n\u003cp\u003e平时作业都会做，考试就是拿不了高分，原因很简单——时间。\u003c/p\u003e\n\n\n\n\u003cp\u003e\u003cstrong\u003e想突破这个分数段的同学，要记得第三个字——熟！\u003c/strong\u003e\u003c/p\u003e\n\n\n\n\u003cp\u003e•       \n\u003cb\u003e“\u003c/b\u003e\u003cb\u003e会”不能保证考试得高分。\u003c/b\u003e\u003c/p\u003e\n\n\u003cp\u003e•       \n\u003cb\u003e学生的精力很难保证考试中都能时刻敏捷思考，不熟练的题型考试中很难有清晰的解题思路。学生只能在考试过程中有30%的时间保持思维的敏捷，能够清晰寻找到解题线索，也就是说必须要有70%以上的题型能够不需要思考，凭直觉答题。\u003c/b\u003e\u003c/p\u003e\n\n\n\n\u003cblockquote\u003e迈克尔·乔丹，纵横NBA赛场15年，在这背后的，是从不间断的每天1000次以上的投篮训练。大家可以算算，十五年他投了多少。\u003c/blockquote\u003e\n\n\u003cp\u003e同样的道理，如何达到凭直觉答题的境界——有效的重复训练。\u003c/p\u003e\n\n\n\n\u003cp\u003e举个例子：还记得刚才的配平方程式步骤么？如果你每见到一个方程式，还要思考第一步是啥，第二步是啥，那就证明你完全没到熟练的程度。\u003c/p\u003e\n\n\u003cp\u003e解决方法也很简单，找10道方程式配平的题目，集中重复训练。当你全部做完的时候，就会发现，你可能已经记不得具体四步分别是什么了，但是当你再拿到一个方程式之后，自动就知道先做什么后做什么——这就是凭直觉答题。\u003c/p\u003e\n\n\u003cp\u003e10这个数字是相对平均的要求，各位同学可以根据自己的理解能力酌情增减，但是无论如何，都必须要经历重复训练。\u003c/p\u003e\n\n\n\n\u003cp\u003e\u003cu\u003e对了，你们每天晚上辣么多的作业题就是干这个的。\u003c/u\u003e\u003c/p\u003e\n\n\n\n\u003cp\u003e在熟练之余，大家还需要注意另一个要点，就是解题方法的效率，普通的方法5分钟做一道题；好的方法1分钟做一道题。这也是影响考试分数的重要因素，这个问题我们改天再讲哈~\u003c/p\u003e\n\n\n\n\u003cp\u003e老师老师，我想上清华北大的话，85可不够啊，我们xx省的高考可是nightmare难度级别的……\u003c/p\u003e\n\n\n\n\u003cp\u003e\u003cstrong\u003e阶段4\u003c/strong\u003e\u003cstrong\u003e：老师，你这次为啥没出选做题呢？这样一来我就又只能考100\u003c/strong\u003e\u003cstrong\u003e了，无奈脸……（90-100\u003c/strong\u003e\u003cstrong\u003e）\u003c/strong\u003e\u003c/p\u003e\n\n\n\n\u003cblockquote\u003e\u003ci\u003e俗话说得好，你考90，是因为你丢了10分；学神考100，是因为卷子上只有100\u003c/i\u003e\u003ci\u003e……\u003c/i\u003e\u003c/blockquote\u003e\n\n\n\n\u003cp\u003e高考作为一场选拔性考试（重点中学的月考期中考更甚之……），它的任务就是干掉你们这些伪学神、这些凡人……所以总会有20%的难题，难题里面也总会有20%的变态题。\u003c/p\u003e\n\n\n\n\u003cp\u003e面对一个个凭着直觉做题的牛X学生，怎么干掉90%以上的人呢？出题人也犯愁了……\u003c/p\u003e\n\n\u003cblockquote\u003e\u003cp\u003e\u003ci\u003e出题人牛A：怕啥，我这有分析化学、中级无机化学、高等有机化学。还有这个，英文原版的物理化学，牛津大学出版的呢……\u003c/i\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ci\u003e出题人牛C：别瞎扯了，教材就这么几本；考纲就这么几十个考点。不！能！超！纲！你那些砖头书，没有一本能用得上的……\u003c/i\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ci\u003e出题人牛B：你们还是年轻了点，单个知识点通过有效的重复训练，是能够达到直觉解题的程度，但是如果你把好几个考点做一下综合，这可就不是通过重复训练能够解决的了。随便举个例子，我们就找3个考点做综合，按照排列组合的计算方法，就是C(80,3)——56000种可能呢，哈哈哈，让你们重复训练？练死你们……\u003c/i\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ci\u003e牛A\u0026amp;牛C\u003c/i\u003e\u003ci\u003e：呵呵，呵呵……牛人的笑点果然不太一样……\u003c/i\u003e\u003c/p\u003e\u003c/blockquote\u003e\n\n\n\n\u003cp\u003e\u003cb\u003e面对这样的出题人，同学们想达到分数最高峰的话，就需要第四个字——通！\u003c/b\u003e\u003c/p\u003e\n\n\n\n\u003cp\u003e•       \n\u003cb\u003e只有全面了解整个学科的知识体系，考点，题型和解题思路，才能真正达到融会贯通的境界。\u003c/b\u003e\u003c/p\u003e\n\n\u003cp\u003e•       \n\u003cb\u003e很少有学生有足够的时间和精力（高考有6科……）对整个学科进行宏观的考察，从中抓住主干，梳理出精髓。而优秀的老师往往都是对本学科内容有着深刻的理解，能够将庞大的知识体系做出精辟的归纳总结，能够在平时学习的各个环节发现并指导学生解决问题。\u003c/b\u003e\u003c/p\u003e\n\n\n\n\u003cblockquote\u003e\u003cp\u003e\u003ci\u003e张三丰在大战阵前，临场教张无忌太极剑法，打了一遍剑招之后，\u003c/i\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ci\u003e大师问：“这些剑招，还记得吗？”\u003c/i\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ci\u003e张无忌：“全都记得。”\u003c/i\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ci\u003e“现在呢？”\u003c/i\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ci\u003e“已经忘却了一小半。”\u003c/i\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ci\u003e“现在呢？”\u003c/i\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ci\u003e“啊，已经忘了一大半。”\u003c/i\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ci\u003e“不坏不坏，忘得真快，那么现在呢？”\u003c/i\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ci\u003e“已经全都忘了，忘得干干净净。”\u003c/i\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003ci\u003e“好了，你上吧。”\u003c/i\u003e\u003c/p\u003e\u003c/blockquote\u003e\n\n\n\n\u003cp\u003e所谓学习，就是将新的知识纳入到你已有的知识网络中去。当你把新知完全融入到自己已有的体系中之后，你往往都无法意识到自己学会了新的东西。你觉得你还是你，但外人看来，你早已不同，这就是学习的最高境界——融会贯通！\u003c/p\u003e\n\n\n\n\u003cp\u003e我们举一个化学学科的例子吧，电极反应方程式的书写。\u003c/p\u003e\n\n\n\n\u003cp\u003e其实这并不是一个新例子，用到的还是最开始的那个知识点——氧化还原得失电子守恒。\u003c/p\u003e\n\n\u003cp\u003e老师你疯了吧，一个是高一必修一的知识，一个是高二选修四的知识，这俩怎么能是一个玩意呢？\u003c/p\u003e\n\n\n\n\u003cp\u003e本质上，电化学反应就是氧化还原反应，只不过把原来的反应拆成了两半——一边得电子、一边失电子；一半被氧化、一半被还原；中间再连个导线，电子定向移动——电就来了。\u003c/p\u003e\n\n\u003cp\u003e如果你能意识到这两个知识板块之间的关联，那么你高一学的，所有的氧化还原板块的技巧、方法是不是也能套用过来呢？答案当然是肯定的。\u003c/p\u003e\n\n\u003cp\u003e当你能够发现知识之间的异同，也就能够建立各个板块之间的关系，还记得学神捞鱼的那个网么？你也就织成了。\u003c/p\u003e\n\n\n\n\u003cp\u003e想达到这个阶段，单纯的做题，效率已经不高了。要么有优秀的老师指点，要么，没事时多在床上躺会，慢慢发散、慢慢思考——今天我们学的新知识，在哪里还能用得上？和去年学的内容相比，哪里特别类似呢？然后去找学神讨论讨论，说不定会有奇效！\u003c/p\u003e\n\n\n\n\u003cp\u003e今天和大家分享了不同分数段的大体情况，以及要有所突破的话，需要了解知识掌握的四重境界。如果用一张图来说明的话，就是这样的：\u003c/p\u003e\n\n\n\n\u003cp\u003e\u003cfigure\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic1.zhimg.com/50/v2-70e55628de8853ba0d06e0e535215424_hd.jpg?source=1940ef5c\" data-rawwidth=\"878\" data-rawheight=\"708\" class=\"origin_image zh-lightbox-thumb\" width=\"878\" data-original=\"https://pic4.zhimg.com/v2-70e55628de8853ba0d06e0e535215424_r.jpg?source=1940ef5c\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;878\u0026#39; height=\u0026#39;708\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-rawwidth=\"878\" data-rawheight=\"708\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"878\" data-original=\"https://pic4.zhimg.com/v2-70e55628de8853ba0d06e0e535215424_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-70e55628de8853ba0d06e0e535215424_hd.jpg?source=1940ef5c\"/\u003e\u003c/figure\u003e希望对大家有所帮助~\u003c/p\u003e\n\n\n\n\u003cp\u003e最后欢迎对教育教学感兴趣的老师共同讨论，各位同学也可以评论留言提问~\u003c/p\u003e\n\n\n\n\u003cp\u003e谢谢啦~\u003c/p\u003e",
+      "editable_content": "",
+      "excerpt": "作者：陈锐宁 链接：怎样提高高中化学成绩？有哪些较好的方法？ - 陈锐宁的回答 - 知乎 来源：知乎 著作权归作者所有，转载请联系作者获得授权。 高人高人，请问如何才能提高武功？ 华山老大岳不群和华山老大的闺女岳灵珊，他俩都有同样的问题，但高人给出的答案能一样吗？ 学长学长，我怎么才能学好化学呢？ 老师老师，我怎么才能提高成绩呢？ 仔细拆解，这种问题背后其实是三个子问题？ 1、 什么叫好？什么是高？——你的目标…",
+      "collapsed_by": "nobody",
+      "collapse_reason": "",
+      "annotation_action": null,
+      "mark_infos": [],
+      "relevant_info": {
+        "is_relevant": false,
+        "relevant_type": "",
+        "relevant_text": ""
+      },
+      "suggest_edit": {
+        "reason": "",
+        "status": false,
+        "tip": "",
+        "title": "",
+        "unnormal_details": {
+          "status": "",
+          "description": "",
+          "reason": "",
+          "reason_id": 0,
+          "note": ""
+        },
+        "url": ""
+      },
+      "is_labeled": false,
+      "ContentMark": null,
+      "reward_info": {
+        "can_open_reward": false,
+        "is_rewardable": false,
+        "reward_member_count": 0,
+        "reward_total_money": 0,
+        "tagline": ""
+      },
+      "relationship": {
+        "is_author": false,
+        "is_authorized": false,
+        "is_nothelp": false,
+        "is_thanked": false,
+        "is_recognized": false,
+        "voting": 0,
+        "upvoted_followees": []
+      },
+      "ad_answer": null
+    },
+    {
+      "id": 38338396,
+      "type": "answer",
+      "answer_type": "normal",
+      "question": {
+        "type": "question",
+        "id": 24667783,
+        "title": "如何提高高中化学成绩？",
+        "question_type": "normal",
+        "created": 1406687402,
+        "updated_time": 1431737747,
+        "url": "https://www.zhihu.com/api/v4/questions/24667783",
+        "relationship": {}
+      },
+      "author": {
+        "id": "953060da6e0917497940c083810443a5",
+        "url_token": "wuchangyexue",
+        "name": "贺仙",
+        "avatar_url": "https://pic3.zhimg.com/05836cca8e18915f65090b2e1449e77b_l.jpg?source=1940ef5c",
+        "avatar_url_template": "https://pic4.zhimg.com/05836cca8e18915f65090b2e1449e77b.jpg?source=1940ef5c",
+        "is_org": false,
+        "type": "people",
+        "url": "https://www.zhihu.com/api/v4/people/953060da6e0917497940c083810443a5",
+        "user_type": "people",
+        "headline": "自从得了精神病，我现在呦西！很有精神！",
+        "badge": [],
+        "badge_v2": {
+          "title": "",
+          "merged_badges": [],
+          "detail_badges": [],
+          "icon": "",
+          "night_icon": ""
+        },
+        "gender": 1,
+        "is_advertiser": false,
+        "follower_count": 219866,
+        "is_followed": false,
+        "is_privacy": false,
+        "vip_info": {
+          "is_vip": true,
+          "vip_icon": {
+            "url": "https://pic2.zhimg.com/v2-4812630bc27d642f7cafcd6cdeca3d7a_r.png?source=1940ef5c",
+            "night_mode_url": "https://pic4.zhimg.com/v2-c9686ff064ea3579730756ac6c289978_r.png?source=1940ef5c"
+          }
+        }
+      },
+      "url": "https://www.zhihu.com/api/v4/answers/38338396",
+      "is_collapsed": false,
+      "created_time": 1422472580,
+      "updated_time": 1520753834,
+      "extras": "",
+      "is_copyable": true,
+      "is_normal": true,
+      "voteup_count": 152,
+      "comment_count": 36,
+      "is_sticky": false,
+      "admin_closed_comment": false,
+      "comment_permission": "censor",
+      "can_comment": {
+        "reason": "",
+        "status": true
+      },
+      "reshipment_settings": "allowed",
+      "content": "学习这种事情，一分辛苦一分才，不吃点苦就不能提高自己，这是首先要有的心理准备。\u003cbr/\u003e具体到化学的学习上，多总结多复习，总结错误的题目，含糊的知识点，各物质的性质等等，总之，平时多流汗，战时少流血。\u003cbr/\u003e\u003cbr/\u003e多图杀猫预警\u003cbr/\u003e\u003cbr/\u003e下面是偶的化学笔记本，高中三年积累下来的，最下面两本最厚，是用于准备化学竞赛的，前面四本大部分是高中范围内的总结。\u003cbr/\u003e\u003cfigure\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic1.zhimg.com/50/385929d9d27e814357f32ad2f6b8bd24_hd.jpg?source=1940ef5c\" data-rawwidth=\"1136\" data-rawheight=\"852\" class=\"origin_image zh-lightbox-thumb\" width=\"1136\" data-original=\"https://pic4.zhimg.com/385929d9d27e814357f32ad2f6b8bd24_r.jpg?source=1940ef5c\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;1136\u0026#39; height=\u0026#39;852\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-rawwidth=\"1136\" data-rawheight=\"852\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1136\" data-original=\"https://pic4.zhimg.com/385929d9d27e814357f32ad2f6b8bd24_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic1.zhimg.com/50/385929d9d27e814357f32ad2f6b8bd24_hd.jpg?source=1940ef5c\"/\u003e\u003c/figure\u003e这是订正本，推荐两种颜色，其实我由于正确率太高，为了完成硬性作业往往不得不假装做错了，但是整个格式受到了高度评价。\u003cbr/\u003e\u003cfigure\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic4.zhimg.com/50/2aaba06e29a79df2407cab35628a5db8_hd.jpg?source=1940ef5c\" data-rawwidth=\"1136\" data-rawheight=\"852\" class=\"origin_image zh-lightbox-thumb\" width=\"1136\" data-original=\"https://pic2.zhimg.com/2aaba06e29a79df2407cab35628a5db8_r.jpg?source=1940ef5c\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;1136\u0026#39; height=\u0026#39;852\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-rawwidth=\"1136\" data-rawheight=\"852\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1136\" data-original=\"https://pic2.zhimg.com/2aaba06e29a79df2407cab35628a5db8_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic4.zhimg.com/50/2aaba06e29a79df2407cab35628a5db8_hd.jpg?source=1940ef5c\"/\u003e\u003c/figure\u003e也可以总结重要知识点，不一定只写错题\u003cbr/\u003e\u003cfigure\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic4.zhimg.com/50/18c57838dae329de424ef50898fbcdd8_hd.jpg?source=1940ef5c\" data-rawwidth=\"1136\" data-rawheight=\"852\" class=\"origin_image zh-lightbox-thumb\" width=\"1136\" data-original=\"https://pic2.zhimg.com/18c57838dae329de424ef50898fbcdd8_r.jpg?source=1940ef5c\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;1136\u0026#39; height=\u0026#39;852\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-rawwidth=\"1136\" data-rawheight=\"852\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1136\" data-original=\"https://pic2.zhimg.com/18c57838dae329de424ef50898fbcdd8_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic4.zhimg.com/50/18c57838dae329de424ef50898fbcdd8_hd.jpg?source=1940ef5c\"/\u003e\u003c/figure\u003e\u003cbr/\u003e这是刚开始学有机时，不知道重点，照单全抄，其实工作量远没有想象的大，毕竟知识点就那么多。我超量整理完整个有机的知识点时，这本薄薄的册子还有好几页没写完。\u003cbr/\u003e\u003cfigure\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic1.zhimg.com/50/a920873a3daf82014c6d628bfa155678_hd.jpg?source=1940ef5c\" data-rawwidth=\"1136\" data-rawheight=\"852\" class=\"origin_image zh-lightbox-thumb\" width=\"1136\" data-original=\"https://pic2.zhimg.com/a920873a3daf82014c6d628bfa155678_r.jpg?source=1940ef5c\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;1136\u0026#39; height=\u0026#39;852\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-rawwidth=\"1136\" data-rawheight=\"852\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1136\" data-original=\"https://pic2.zhimg.com/a920873a3daf82014c6d628bfa155678_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic1.zhimg.com/50/a920873a3daf82014c6d628bfa155678_hd.jpg?source=1940ef5c\"/\u003e\u003c/figure\u003e竞赛范围的笔记\u003cbr/\u003e\u003cfigure\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic2.zhimg.com/50/523d0779e20bac45869266b29051730a_hd.jpg?source=1940ef5c\" data-rawwidth=\"852\" data-rawheight=\"1136\" class=\"origin_image zh-lightbox-thumb\" width=\"852\" data-original=\"https://pic3.zhimg.com/523d0779e20bac45869266b29051730a_r.jpg?source=1940ef5c\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;852\u0026#39; height=\u0026#39;1136\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-rawwidth=\"852\" data-rawheight=\"1136\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"852\" data-original=\"https://pic3.zhimg.com/523d0779e20bac45869266b29051730a_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic2.zhimg.com/50/523d0779e20bac45869266b29051730a_hd.jpg?source=1940ef5c\"/\u003e\u003c/figure\u003e\u003cfigure\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic1.zhimg.com/50/c2be78bf8d8c9651416a95d6eea85921_hd.jpg?source=1940ef5c\" data-rawwidth=\"1136\" data-rawheight=\"852\" class=\"origin_image zh-lightbox-thumb\" width=\"1136\" data-original=\"https://pic1.zhimg.com/c2be78bf8d8c9651416a95d6eea85921_r.jpg?source=1940ef5c\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;1136\u0026#39; height=\u0026#39;852\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-rawwidth=\"1136\" data-rawheight=\"852\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1136\" data-original=\"https://pic1.zhimg.com/c2be78bf8d8c9651416a95d6eea85921_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic1.zhimg.com/50/c2be78bf8d8c9651416a95d6eea85921_hd.jpg?source=1940ef5c\"/\u003e\u003c/figure\u003e\u003cbr/\u003e无机物的笔记，其实也是以超纲为底线的。每天一个元素，整理完睡觉。\u003cbr/\u003e\u003cfigure\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic1.zhimg.com/50/fb0c3ca0d8cf1a58432997b6217cadac_hd.jpg?source=1940ef5c\" data-rawwidth=\"852\" data-rawheight=\"1136\" class=\"origin_image zh-lightbox-thumb\" width=\"852\" data-original=\"https://pic4.zhimg.com/fb0c3ca0d8cf1a58432997b6217cadac_r.jpg?source=1940ef5c\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;852\u0026#39; height=\u0026#39;1136\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-rawwidth=\"852\" data-rawheight=\"1136\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"852\" data-original=\"https://pic4.zhimg.com/fb0c3ca0d8cf1a58432997b6217cadac_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic1.zhimg.com/50/fb0c3ca0d8cf1a58432997b6217cadac_hd.jpg?source=1940ef5c\"/\u003e\u003c/figure\u003e然后时常拿出来复习，反复看几遍之后就能看到上句想到下句，方程式再顺手写一遍，无机整个过完一轮大概一个多月，基本就用化学晚自习的时间，每天30分钟不到。我高二大概把无机和有机整个翻了3,4遍，之后就再也没有为无机化学有机化学烦恼过，知识点无论重要与否基本都刻在了我婶婶的脑海里，从此下笔如有神。\u003cbr/\u003e\u003cfigure\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic4.zhimg.com/50/7172fb55486624c3a0d53a9d236d504b_hd.jpg?source=1940ef5c\" data-rawwidth=\"3072\" data-rawheight=\"1728\" class=\"origin_image zh-lightbox-thumb\" width=\"3072\" data-original=\"https://pic2.zhimg.com/7172fb55486624c3a0d53a9d236d504b_r.jpg?source=1940ef5c\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;3072\u0026#39; height=\u0026#39;1728\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-rawwidth=\"3072\" data-rawheight=\"1728\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"3072\" data-original=\"https://pic2.zhimg.com/7172fb55486624c3a0d53a9d236d504b_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic4.zhimg.com/50/7172fb55486624c3a0d53a9d236d504b_hd.jpg?source=1940ef5c\"/\u003e\u003c/figure\u003e好吧，我解释下左边是什么情况，作为一个狂热的文学爱好者，我复习的时候偶尔来了灵感就随便写点东西，现在感觉不能看啊。。。。。。。。（捂脸）\u003cbr/\u003e\u003cfigure\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic2.zhimg.com/50/fb3084a9eb6c4633b893b9ea3844c3ee_hd.jpg?source=1940ef5c\" data-rawwidth=\"3072\" data-rawheight=\"1728\" class=\"origin_image zh-lightbox-thumb\" width=\"3072\" data-original=\"https://pic4.zhimg.com/fb3084a9eb6c4633b893b9ea3844c3ee_r.jpg?source=1940ef5c\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;3072\u0026#39; height=\u0026#39;1728\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-rawwidth=\"3072\" data-rawheight=\"1728\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"3072\" data-original=\"https://pic4.zhimg.com/fb3084a9eb6c4633b893b9ea3844c3ee_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic2.zhimg.com/50/fb3084a9eb6c4633b893b9ea3844c3ee_hd.jpg?source=1940ef5c\"/\u003e\u003c/figure\u003e翻到这一页还真是感慨，伊是指当年的女神，毕竟不能大咧咧写名字，一旦被班主任发现我肯定要死得很难看，用伊指代有种秋水伊人的神秘美感。某天女神穿了一件浅蓝色的衣服，温润如玉，照亮了我的狗眼，不过从写的位置来看，我当时脑海里浮现的应该不是硅酸盐，而是刚玉。。。。。。也即α-氧化铝晶体，硬度8.8，仅次于金刚石和碳化硅，超耐磨。。。。。。。。。\u003cbr/\u003e妈蛋，怪不得我被拒了，一语成谶啊！啊！啊！\u003cbr/\u003e\u003cbr/\u003e回到主题，化学这门学科就在于总结和复习，只要持之以恒，就能下笔如神。\u003cbr/\u003e有些事情连小学生都能做到，这是三年级教室墙上的标语，简直令人汗颜啊，焉知来者不如今，长江后浪推前浪！\u003cbr/\u003e\u003cfigure\u003e\u003cnoscript\u003e\u003cimg src=\"https://pic4.zhimg.com/50/088c146ea9881aca508b913dbb0ba85a_hd.jpg?source=1940ef5c\" data-rawwidth=\"640\" data-rawheight=\"853\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/088c146ea9881aca508b913dbb0ba85a_r.jpg?source=1940ef5c\"/\u003e\u003c/noscript\u003e\u003cimg src=\"data:image/svg+xml;utf8,\u0026lt;svg xmlns=\u0026#39;http://www.w3.org/2000/svg\u0026#39; width=\u0026#39;640\u0026#39; height=\u0026#39;853\u0026#39;\u0026gt;\u0026lt;/svg\u0026gt;\" data-rawwidth=\"640\" data-rawheight=\"853\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic1.zhimg.com/088c146ea9881aca508b913dbb0ba85a_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic4.zhimg.com/50/088c146ea9881aca508b913dbb0ba85a_hd.jpg?source=1940ef5c\"/\u003e\u003c/figure\u003e弱弱的问一句\u003cbr/\u003e我不会lol，这装怎么样？",
+      "editable_content": "",
+      "excerpt": "学习这种事情，一分辛苦一分才，不吃点苦就不能提高自己，这是首先要有的心理准备。 具体到化学的学习上，多总结多复习，总结错误的题目，含糊的知识点，各物质的性质等等，总之，平时多流汗，战时少流血。 多图杀猫预警 下面是偶的化学笔记本，高中三年积累下来的，最下面两本最厚，是用于准备化学竞赛的，前面四本大部分是高中范围内的总结。 [图片] 这是订正本，推荐两种颜色，其实我由于正确率太高，为了完成硬性作业往往不得不假装…",
+      "collapsed_by": "nobody",
+      "collapse_reason": "",
+      "annotation_action": null,
+      "mark_infos": [],
+      "relevant_info": {
+        "is_relevant": false,
+        "relevant_type": "",
+        "relevant_text": ""
+      },
+      "suggest_edit": {
+        "reason": "",
+        "status": false,
+        "tip": "",
+        "title": "",
+        "unnormal_details": {
+          "status": "",
+          "description": "",
+          "reason": "",
+          "reason_id": 0,
+          "note": ""
+        },
+        "url": ""
+      },
+      "is_labeled": false,
+      "ContentMark": null,
+      "reward_info": {
+        "can_open_reward": false,
+        "is_rewardable": false,
+        "reward_member_count": 0,
+        "reward_total_money": 0,
+        "tagline": ""
+      },
+      "relationship": {
+        "is_author": false,
+        "is_authorized": false,
+        "is_nothelp": false,
+        "is_thanked": false,
+        "is_recognized": false,
+        "voting": 0,
+        "upvoted_followees": []
+      },
+      "ad_answer": null
+    },
+    {
+      "id": 38358773,
+      "type": "answer",
+      "answer_type": "normal",
+      "question": {
+        "type": "question",
+        "id": 24667783,
+        "title": "如何提高高中化学成绩？",
+        "question_type": "normal",
+        "created": 1406687402,
+        "updated_time": 1431737747,
+        "url": "https://www.zhihu.com/api/v4/questions/24667783",
+        "relationship": {}
+      },
+      "author": {
+        "id": "4c6d0e0c0ccfad650a4fe9a373d6bcb0",
+        "url_token": "yang-xiao-xuan-69",
+        "name": "杨晓萱",
+        "avatar_url": "https://pic1.zhimg.com/879f949fb712097ce230525f034a8471_l.jpg?source=1940ef5c",
+        "avatar_url_template": "https://pic2.zhimg.com/879f949fb712097ce230525f034a8471.jpg?source=1940ef5c",
+        "is_org": false,
+        "type": "people",
+        "url": "https://www.zhihu.com/api/v4/people/4c6d0e0c0ccfad650a4fe9a373d6bcb0",
+        "user_type": "people",
+        "headline": "",
+        "badge": [],
+        "badge_v2": {
+          "title": "",
+          "merged_badges": [],
+          "detail_badges": [],
+          "icon": "",
+          "night_icon": ""
+        },
+        "gender": 0,
+        "is_advertiser": false,
+        "follower_count": 10,
+        "is_followed": false,
+        "is_privacy": false,
+        "vip_info": {
+          "is_vip": false
+        }
+      },
+      "url": "https://www.zhihu.com/api/v4/answers/38358773",
+      "is_collapsed": false,
+      "created_time": 1422503881,
+      "updated_time": 1422503881,
+      "extras": "",
+      "is_copyable": true,
+      "is_normal": true,
+      "voteup_count": 43,
+      "comment_count": 8,
+      "is_sticky": false,
+      "admin_closed_comment": false,
+      "comment_permission": "all",
+      "can_comment": {
+        "reason": "",
+        "status": true
+      },
+      "reshipment_settings": "allowed",
+      "content": "如果已经高三了，那么你需要快速有效的提高方法，高中化学本就不是技巧性特别强的学科，只用把和高考有关的知识点背下来就足够可以让你考个不错的成绩了。\u003cbr/\u003e熟悉知识点的方法就是，做真题。如果基础不够好，跟不上老师的提高阶段的话，就放弃听课把所有课上课下的时间都用来自己做题吧。买本《五年高考三年模拟·高考化学》。\u003cbr/\u003e第一遍花一个月时间，将书中题涉及到的所有知识点，包括选择题每个选项的知识点，问老师问同学，自己翻参考书，全部都弄明白并整理成易于自己理解的语言。做完一遍之后你会发现，每年的高考题知识点变化并不大。\u003cbr/\u003e第二遍时自己按照高考理综化学部分\u003cbr/\u003e的比例计算需要的时间，将做题时间控制在比需要时间少十分钟左右，将自己依然不会的题挑出来重点复习。\u003cbr/\u003e第三遍复习就是要在熟悉真题知识点的前提下适当进行延伸，对自己不熟练的题型进行专题提高，找十几道类型题一口气练到底，你会突然发现，再难的题，也不过如此。\u003cbr/\u003e最后祝高考成功。",
+      "editable_content": "",
+      "excerpt": "如果已经高三了，那么你需要快速有效的提高方法，高中化学本就不是技巧性特别强的学科，只用把和高考有关的知识点背下来就足够可以让你考个不错的成绩了。 熟悉知识点的方法就是，做真题。如果基础不够好，跟不上老师的提高阶段的话，就放弃听课把所有课上课下的时间都用来自己做题吧。买本《五年高考三年模拟·高考化学》。 第一遍花一个月时间，将书中题涉及到的所有知识点，包括选择题每个选项的知识点，问老师问同学，自己翻…",
+      "collapsed_by": "nobody",
+      "collapse_reason": "",
+      "annotation_action": null,
+      "mark_infos": [],
+      "relevant_info": {
+        "is_relevant": false,
+        "relevant_type": "",
+        "relevant_text": ""
+      },
+      "suggest_edit": {
+        "reason": "",
+        "status": false,
+        "tip": "",
+        "title": "",
+        "unnormal_details": {
+          "status": "",
+          "description": "",
+          "reason": "",
+          "reason_id": 0,
+          "note": ""
+        },
+        "url": ""
+      },
+      "is_labeled": false,
+      "ContentMark": null,
+      "reward_info": {
+        "can_open_reward": false,
+        "is_rewardable": false,
+        "reward_member_count": 0,
+        "reward_total_money": 0,
+        "tagline": ""
+      },
+      "relationship": {
+        "is_author": false,
+        "is_authorized": false,
+        "is_nothelp": false,
+        "is_thanked": false,
+        "is_recognized": false,
+        "voting": 0,
+        "upvoted_followees": []
+      },
+      "ad_answer": null
+    }
+  ],
+  "paging": {
+    "is_end": false,
+    "is_start": false,
+    "next": "https://www.zhihu.com/api/v4/questions/24667783/answers?include=data%5B%2A%5D.is_normal%2Cadmin_closed_comment%2Creward_info%2Cis_collapsed%2Cannotation_action%2Cannotation_detail%2Ccollapse_reason%2Cis_sticky%2Ccollapsed_by%2Csuggest_edit%2Ccomment_count%2Ccan_comment%2Ccontent%2Ceditable_content%2Cattachment%2Cvoteup_count%2Creshipment_settings%2Ccomment_permission%2Ccreated_time%2Cupdated_time%2Creview_info%2Crelevant_info%2Cquestion%2Cexcerpt%2Cis_labeled%2Cpaid_info%2Cpaid_info_content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%2Cis_recognized%3Bdata%5B%2A%5D.mark_infos%5B%2A%5D.url%3Bdata%5B%2A%5D.author.follower_count%2Cvip_info%2Cbadge%5B%2A%5D.topics%3Bdata%5B%2A%5D.settings.table_of_content.enabled\u0026limit=5\u0026offset=6\u0026platform=desktop\u0026sort_by=default",
+    "previous": "https://www.zhihu.com/api/v4/questions/24667783/answers?include=data%5B%2A%5D.is_normal%2Cadmin_closed_comment%2Creward_info%2Cis_collapsed%2Cannotation_action%2Cannotation_detail%2Ccollapse_reason%2Cis_sticky%2Ccollapsed_by%2Csuggest_edit%2Ccomment_count%2Ccan_comment%2Ccontent%2Ceditable_content%2Cattachment%2Cvoteup_count%2Creshipment_settings%2Ccomment_permission%2Ccreated_time%2Cupdated_time%2Creview_info%2Crelevant_info%2Cquestion%2Cexcerpt%2Cis_labeled%2Cpaid_info%2Cpaid_info_content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%2Cis_recognized%3Bdata%5B%2A%5D.mark_infos%5B%2A%5D.url%3Bdata%5B%2A%5D.author.follower_count%2Cvip_info%2Cbadge%5B%2A%5D.topics%3Bdata%5B%2A%5D.settings.table_of_content.enabled\u0026limit=5\u0026offset=0\u0026platform=desktop\u0026sort_by=default",
+    "totals": 46
+  },
+  "read_count": 0
+}

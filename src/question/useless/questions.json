@@ -1,0 +1,643 @@
+{
+  "initialState": {
+    "entities": {
+      "questions": {
+        "464751425": {
+          "id": 464751425,
+          "title": "湖北十堰燃气爆炸事件已致12人死亡，37人重伤。可能是什么原因造成的？",
+          "created": 1623552204,
+          "updatedTime": 1623566232,
+          "answerCount": 252,
+          "visitCount": 3205112,
+          "commentCount": 61,
+          "followerCount": 2240,
+          "voteupCount": 593,
+          "collapsedAnswerCount": 1,
+          "excerpt": "6月13日早晨6点30左右，湖北十堰市张湾区艳湖小区发生天然气爆炸。据指挥部最新消息，截至目前，已搜救出150人，其中12人死亡；138人受伤（其中37人重伤）。",
+          "topics": [
+            {
+              "id": "19570597",
+              "type": "topic",
+              "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Ftopics\u002F19570597",
+              "name": "湖北",
+              "avatarUrl": "https:\u002F\u002Fpic1.zhimg.com\u002F50\u002Fv2-a07e9165cc5b3d33dc5fc48d5f4b02a1_720w.jpg?source=54b3c3a5",
+              "topicType": "NORMAL"
+            },
+            {
+              "id": "19587770",
+              "type": "topic",
+              "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Ftopics\u002F19587770",
+              "name": "燃气",
+              "avatarUrl": "https:\u002F\u002Fpic4.zhimg.com\u002F50\u002Fv2-664a0141316ef891983d5efd47f03e06_720w.jpg?source=54b3c3a5",
+              "topicType": "NORMAL"
+            },
+            {
+              "id": "20709305",
+              "type": "topic",
+              "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Ftopics\u002F20709305",
+              "name": "十堰",
+              "avatarUrl": "https:\u002F\u002Fpic4.zhimg.com\u002Fe82bab09c_l.jpg?source=1940ef5c",
+              "topicType": "NORMAL"
+            }
+          ],
+          "author": {
+            "id": "8eb4e2b0daadfd128d999e7cf5a4a7ff",
+            "urlToken": "feng-mian-xin-wen",
+            "name": "封面新闻",
+            "userType": "organization",
+            "headline": "亿万年轻人的生活方式",
+            "gender": -1
+          },
+          "relatedCards": []
+        }
+      },
+      "answers": {
+        "1937900478": {
+          "id": 1937900478,
+          "type": "answer",
+          "answerType": "normal",
+          "question": {
+            "type": "question",
+            "id": 464751425,
+            "title": "湖北十堰燃气爆炸事件已致12人死亡，37人重伤。可能是什么原因造成的？",
+            "questionType": "normal",
+            "created": 1623552204,
+            "updatedTime": 1623566232,
+            "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fquestions\u002F464751425",
+            "relationship": {}
+          },
+          "author": {
+            "id": "9a2817dc9c97f3c89b33671d3f87605c",
+            "urlToken": "then-81-51-76",
+            "name": "Then",
+            "userType": "people",
+            "gender": -1,
+            "followerCount": 17,
+          },
+          "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fanswers\u002F1937900478",
+          "isCollapsed": false,
+          "createdTime": 1623560726,
+          "updatedTime": 1623560726,
+          "extras": "",
+          "isCopyable": true,
+          "isNormal": true,
+          "voteupCount": 181,
+          "commentCount": 100,
+          "isSticky": false,
+          "adminClosedComment": false,
+          "commentPermission": "all",
+          "canComment": {
+            "reason": "",
+            "status": true
+          },
+          "reshipmentSettings": "allowed",
+          "content": "\u003Cp\u003E确实是很难过了\u003C\u002Fp\u003E",
+          "editableContent": "",
+          "excerpt": "确实是很难过了",
+          "collapsedBy": "nobody",
+          "collapseReason": "",
+          "annotationAction": null,
+          "markInfos": [],
+          "relevantInfo": {
+            "isRelevant": false,
+            "relevantType": "",
+            "relevantText": ""
+          },
+          "suggestEdit": {
+            "reason": "",
+            "status": false,
+            "tip": "",
+            "title": "",
+            "unnormalDetails": {
+              "status": "",
+              "description": "",
+              "reason": "",
+              "reasonId": 0,
+              "note": ""
+            },
+            "url": ""
+          },
+          "isLabeled": false,
+          "attachment": {
+            "type": "video",
+            "attachmentId": "1387394832961302528",
+            "video": {
+              "zvideoId": "1387394922706812929",
+              "subVideoId": "1387394832961302528",
+              "parentVideoId": "1387394832961302528",
+              "title": "湖北十堰燃气爆炸事件已致11人死亡，37人重伤。可能是什么原因造成的？",
+              "voteupCount": 181,
+              "playCount": 79216,
+              "startTime": 0,
+              "endTime": 14467,
+              "videoInfo": {
+                "playlist": {
+                  "ld": {
+                    "url": "https:\u002F\u002Fvdn.vzuu.com\u002FSD\u002Fea3c260e-cc04-11eb-9d46-c6e48dec1092-t11-vgn4y2WKPl.mp4?disable_local_cache=1&auth_key=1623579899-0-0-bc1265ff84e3b6bca898f6589af9f05f&f=mp4&bu=answer&expiration=1623579899&v=ali",
+                    "height": 848,
+                    "width": 480
+                  },
+                  "sd": {
+                    "url": "https:\u002F\u002Fvdn.vzuu.com\u002FSD\u002Fea3c260e-cc04-11eb-9d46-c6e48dec1092-t11-vgn4y2WKPl.mp4?disable_local_cache=1&auth_key=1623579899-0-0-bc1265ff84e3b6bca898f6589af9f05f&f=mp4&bu=answer&expiration=1623579899&v=ali",
+                    "height": 848,
+                    "width": 480
+                  }
+                },
+                "videoId": 1387394832961302500,
+                "height": 848,
+                "width": 480,
+                "type": "video",
+                "duration": 14.467,
+                "thumbnail": "https:\u002F\u002Fpic2.zhimg.com\u002Fv2-e0670d776ebe5ceb8e2a97855e08a228.jpg?source=382ee89a",
+                "isPaid": false,
+                "isTrial": false,
+                "playCount": 84914
+              }
+            }
+          },
+          "contentMark": null,
+          "rewardInfo": {
+            "canOpenReward": false,
+            "isRewardable": false,
+            "rewardMemberCount": 0,
+            "rewardTotalMoney": 0,
+            "tagline": ""
+          },
+          "relationship": {
+            "isAuthor": false,
+            "isAuthorized": false,
+            "isNothelp": false,
+            "isThanked": false,
+            "isRecognized": false,
+            "voting": 0,
+            "upvotedFollowees": []
+          },
+          "adAnswer": null
+        },
+        "1937914717": {
+          "id": 1937914717,
+          "type": "answer",
+          "answerType": "normal",
+          "question": {
+            "type": "question",
+            "id": 464751425,
+            "title": "湖北十堰燃气爆炸事件已致12人死亡，37人重伤。可能是什么原因造成的？",
+            "questionType": "normal",
+            "created": 1623552204,
+            "updatedTime": 1623566232,
+            "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fquestions\u002F464751425",
+            "relationship": {}
+          },
+          "author": {
+            "id": "6778e0a1e2968021983410eb90da48ed",
+            "urlToken": "lin-lin-54-34-86",
+            "name": "林凛",
+            "avatarUrl": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-d0b771fe7d53cd15aa165c92d4a8ef54_l.jpg?source=1940ef5c",
+            "avatarUrlTemplate": "https:\u002F\u002Fpic2.zhimg.com\u002Fv2-d0b771fe7d53cd15aa165c92d4a8ef54.jpg?source=1940ef5c",
+            "isOrg": false,
+            "type": "people",
+            "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fpeople\u002F6778e0a1e2968021983410eb90da48ed",
+            "userType": "people",
+            "headline": "白熊愿意为克洛伊砍下整片森林",
+            "badge": [],
+            "badgeV2": {
+              "title": "",
+              "mergedBadges": [],
+              "detailBadges": [],
+              "icon": "",
+              "nightIcon": ""
+            },
+            "gender": 0,
+            "isAdvertiser": false,
+            "followerCount": 19,
+            "isFollowed": false,
+            "isPrivacy": false,
+            "vipInfo": {
+              "isVip": false
+            }
+          },
+          "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fanswers\u002F1937914717",
+          "isCollapsed": false,
+          "createdTime": 1623561295,
+          "updatedTime": 1623561295,
+          "extras": "",
+          "isCopyable": true,
+          "isNormal": true,
+          "voteupCount": 274,
+          "commentCount": 27,
+          "isSticky": false,
+          "adminClosedComment": false,
+          "commentPermission": "all",
+          "canComment": {
+            "reason": "",
+            "status": true
+          },
+          "reshipmentSettings": "allowed",
+          "content": "\u003Cp\u003E本地人，这是我的故乡和童年。今天毕业典礼，完全无心关注，第一时间和所有住在附近的亲朋老师了联系，好在大多无事。太难过了。每一条熟悉的路，就这么变成废墟了。离事发中心三公里的家，都感受到了冲击，难以想象现场的情况有多么惨烈。不想发现场图，我知道会被删掉，满地玻璃，朋友圈的朋友家中玻璃全碎，天花板掉落。现场的伤者，人满为患的太和，哪个十堰人不揪心?\u003C\u002Fp\u003E\u003Cp\u003E保持冷静，相信政府。十堰人民在每个献血站排起了长队，大家真的很团结。在外求学，我本以为我心里不那么记挂它，但是事发之后却也忍不住的流泪，转发献血信息，联系大家。说出来很可笑，我宁可在危难中的是自己，那么多卖早饭卖菜辛苦一生的人卷入这场危难，实在是让人心酸。希望政府尽快开筹款渠道，尽自己一份力。天佑我家乡，大家一定要熬过去。\u003C\u002Fp\u003E\u003Cp\u003E本来夏天到了，那条小路到水库的纳凉，已是我为数不多美好的时刻了……\u003C\u002Fp\u003E",
+          "editableContent": "",
+          "excerpt": "本地人，这是我的故乡和童年。今天毕业典礼，完全无心关注，第一时间和所有住在附近的亲朋老师了联系，好在大多无事。太难过了。每一条熟悉的路，就这么变成废墟了。离事发中心三公里的家，都感受到了冲击，难以想象现场的情况有多么惨烈。不想发现场图，我知道会被删掉，满地玻璃，朋友圈的朋友家中玻璃全碎，天花板掉落。现场的伤者，人满为患的太和，哪个十堰人不揪心? 保持冷静，相信政府。十堰人民在每个献血站排起了长队，…",
+          "collapsedBy": "nobody",
+          "collapseReason": "",
+          "annotationAction": null,
+          "markInfos": [],
+          "relevantInfo": {
+            "isRelevant": false,
+            "relevantType": "",
+            "relevantText": ""
+          },
+          "suggestEdit": {
+            "reason": "",
+            "status": false,
+            "tip": "",
+            "title": "",
+            "unnormalDetails": {
+              "status": "",
+              "description": "",
+              "reason": "",
+              "reasonId": 0,
+              "note": ""
+            },
+            "url": ""
+          },
+          "isLabeled": false,
+          "contentMark": null,
+          "rewardInfo": {
+            "canOpenReward": false,
+            "isRewardable": false,
+            "rewardMemberCount": 0,
+            "rewardTotalMoney": 0,
+            "tagline": ""
+          },
+          "relationship": {
+            "isAuthor": false,
+            "isAuthorized": false,
+            "isNothelp": false,
+            "isThanked": false,
+            "isRecognized": false,
+            "voting": 0,
+            "upvotedFollowees": []
+          },
+          "adAnswer": null
+        },
+        "1937922553": {
+          "id": 1937922553,
+          "type": "answer",
+          "answerType": "normal",
+          "question": {
+            "type": "question",
+            "id": 464751425,
+            "title": "湖北十堰燃气爆炸事件已致12人死亡，37人重伤。可能是什么原因造成的？",
+            "questionType": "normal",
+            "created": 1623552204,
+            "updatedTime": 1623566232,
+            "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fquestions\u002F464751425",
+            "relationship": {}
+          },
+          "author": {
+            "id": "5b1cf99a63b0d9c1dc91c921d6644767",
+            "urlToken": "feng-sheng-qian-21",
+            "name": "帅天下",
+            "avatarUrl": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-928006e71a7d5693b9e1e400f3a8c5c5_l.jpg?source=1940ef5c",
+            "avatarUrlTemplate": "https:\u002F\u002Fpic2.zhimg.com\u002Fv2-928006e71a7d5693b9e1e400f3a8c5c5.jpg?source=1940ef5c",
+            "isOrg": false,
+            "type": "people",
+            "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fpeople\u002F5b1cf99a63b0d9c1dc91c921d6644767",
+            "userType": "people",
+            "headline": "资深犯罪心理学研究者、土木专家、职场实战专家、爱家居、爱数码",
+            "badge": [],
+            "badgeV2": {
+              "title": "",
+              "mergedBadges": [],
+              "detailBadges": [],
+              "icon": "",
+              "nightIcon": ""
+            },
+            "gender": 1,
+            "isAdvertiser": false,
+            "followerCount": 35489,
+            "isFollowed": false,
+            "isPrivacy": false,
+            "vipInfo": {
+              "isVip": true,
+              "vipIcon": {
+                "url": "https:\u002F\u002Fpic2.zhimg.com\u002Fv2-4812630bc27d642f7cafcd6cdeca3d7a_r.png?source=1940ef5c",
+                "nightModeUrl": "https:\u002F\u002Fpic2.zhimg.com\u002Fv2-c9686ff064ea3579730756ac6c289978_r.png?source=1940ef5c"
+              }
+            }
+          },
+          "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fanswers\u002F1937922553",
+          "isCollapsed": false,
+          "createdTime": 1623561607,
+          "updatedTime": 1623567106,
+          "extras": "",
+          "isCopyable": true,
+          "isNormal": true,
+          "voteupCount": 177,
+          "commentCount": 29,
+          "isSticky": false,
+          "adminClosedComment": false,
+          "commentPermission": "all",
+          "canComment": {
+            "reason": "",
+            "status": true
+          },
+          "reshipmentSettings": "allowed",
+          "content": "\u003Cp\u003E端午节值班，没有回十堰。\u003C\u002Fp\u003E\u003Cp\u003E事发地在艳湖41厂附近的集贸市场，因为离牛头山国家森林公园也近，去过多次。 \u003C\u002Fp\u003E\u003Cp\u003E41是车架厂，建厂很早，周边全是老旧社区。 \u003C\u002Fp\u003E\u003Cp\u003E41厂的效益还不错，所以周边社区住房虽然已经很老旧了，但常住人口还是非常密集的。\u003C\u002Fp\u003E\u003Cp\u003E本次事故的原因：\u003C\u002Fp\u003E\u003Cp\u003E•应该是人为使用燃气操作不当，加上社区老旧，没有物业维护，天然气管道设施设备老化，燃气泄露，继续造成了更大范围的爆炸。\u003C\u002Fp\u003E\u003Cp\u003E•十堰属于山城，地质条件非常坚硬，又是老工业城市，市区露天管网非常多，很多重要管网因为施工建设的早，埋深也不够，因此十堰成了国家第一批管廊试点工程城市，本次事故的发生可见城市管廊的重要性。\u003C\u002Fp\u003E\u003Cp\u003E•另外也是由于城市地质条件好，十堰早期的房子，多采用的是砖混结构，甚至是全砖砌结构的房子也比比皆是，这也是本次事故造成大范围严重破坏后果的原因。\u003C\u002Fp\u003E\u003Cp\u003E十堰好几年前就是国家卫生文明城市，国家宜居城市，不用过多解读什么附近厂工素质差，相关部门不作为什么的，在国家经济发展当红的这些年，随着东风公司主体搬出十堰，十堰的经济也逐渐走向没落，在城市化升级改造的过程中，早已被人遗忘，没有国家政策性的投资支持，想要完成这些老旧社区的改造，是非常困难的事。\u003C\u002Fp\u003E\u003Cp\u003E为十堰祈福！ \u003C\u002Fp\u003E",
+          "editableContent": "",
+          "excerpt": "端午节值班，没有回十堰。 事发地在艳湖41厂附近的集贸市场，因为离牛头山国家森林公园也近，去过多次。 41是车架厂，建厂很早，周边全是老旧社区。 41厂的效益还不错，所以周边社区住房虽然已经很老旧了，但常住人口还是非常密集的。 本次事故的原因： •应该是人为使用燃气操作不当，加上社区老旧，没有物业维护，天然气管道设施设备老化，燃气泄露，继续造成了更大范围的爆炸。 •十堰属于山城，地质条件非常坚硬，又是老…",
+          "collapsedBy": "nobody",
+          "collapseReason": "",
+          "annotationAction": null,
+          "markInfos": [],
+          "relevantInfo": {
+            "isRelevant": false,
+            "relevantType": "",
+            "relevantText": ""
+          },
+          "suggestEdit": {
+            "reason": "",
+            "status": false,
+            "tip": "",
+            "title": "",
+            "unnormalDetails": {
+              "status": "",
+              "description": "",
+              "reason": "",
+              "reasonId": 0,
+              "note": ""
+            },
+            "url": ""
+          },
+          "isLabeled": false,
+          "settings": {
+            "tableOfContent": {
+              "enabled": false
+            }
+          },
+          "contentMark": null,
+          "rewardInfo": {
+            "canOpenReward": false,
+            "isRewardable": false,
+            "rewardMemberCount": 0,
+            "rewardTotalMoney": 0,
+            "tagline": ""
+          },
+          "relationship": {
+            "isAuthor": false,
+            "isAuthorized": false,
+            "isNothelp": false,
+            "isThanked": false,
+            "isRecognized": false,
+            "voting": 0,
+            "upvotedFollowees": []
+          },
+          "adAnswer": null
+        },
+        "1937943256": {
+          "id": 1937943256,
+          "type": "answer",
+          "answerType": "normal",
+          "question": {
+            "type": "question",
+            "id": 464751425,
+            "title": "湖北十堰燃气爆炸事件已致12人死亡，37人重伤。可能是什么原因造成的？",
+            "questionType": "normal",
+            "created": 1623552204,
+            "updatedTime": 1623566232,
+            "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fquestions\u002F464751425",
+            "relationship": {}
+          },
+          "author": {
+            "id": "ee30969329b7403f32dc9d5b1e035135",
+            "urlToken": "zhong-guo-wang-25",
+            "name": "中国网",
+            "avatarUrl": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-246e77737db8bcb2f9462f0a85da309b_l.jpg?source=1940ef5c",
+            "avatarUrlTemplate": "https:\u002F\u002Fpic4.zhimg.com\u002Fv2-246e77737db8bcb2f9462f0a85da309b.jpg?source=1940ef5c",
+            "isOrg": true,
+            "type": "people",
+            "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fpeople\u002Fee30969329b7403f32dc9d5b1e035135",
+            "userType": "organization",
+            "headline": "见证中国发展（微信号：CIIC_China）",
+            "badge": [
+              {
+                "type": "identity",
+                "description": "已认证的官方帐号",
+                "topics": []
+              }
+            ],
+            "badgeV2": {
+              "title": "已认证的官方帐号",
+              "mergedBadges": [
+                {
+                  "type": "identity",
+                  "detailType": "identity",
+                  "title": "认证",
+                  "description": "已认证的官方帐号",
+                  "url": "https:\u002F\u002Fwww.zhihu.com\u002Faccount\u002Fverification\u002Fintro",
+                  "sources": [],
+                  "icon": "",
+                  "nightIcon": ""
+                }
+              ],
+              "detailBadges": [
+                {
+                  "type": "identity",
+                  "detailType": "identity_org",
+                  "title": "已认证的官方帐号",
+                  "description": "已认证的官方帐号",
+                  "url": "https:\u002F\u002Fwww.zhihu.com\u002Faccount\u002Fverification\u002Fintro",
+                  "sources": [],
+                  "icon": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-235258cecb8a0f184c4d38483cd6f6b6_l.png",
+                  "nightIcon": "https:\u002F\u002Fpic2.zhimg.com\u002Fv2-45e870b8f0982bcd7537ea4627afbd00_l.png"
+                }
+              ],
+              "icon": "https:\u002F\u002Fpic2.zhimg.com\u002Fv2-235258cecb8a0f184c4d38483cd6f6b6_l.png",
+              "nightIcon": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-45e870b8f0982bcd7537ea4627afbd00_l.png"
+            },
+            "gender": -1,
+            "isAdvertiser": false,
+            "followerCount": 408900,
+            "isFollowed": false,
+            "isPrivacy": false,
+            "vipInfo": {
+              "isVip": false
+            }
+          },
+          "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fanswers\u002F1937943256",
+          "isCollapsed": false,
+          "createdTime": 1623562492,
+          "updatedTime": 1623562492,
+          "extras": "",
+          "isCopyable": true,
+          "isNormal": true,
+          "voteupCount": 410,
+          "commentCount": 0,
+          "isSticky": false,
+          "adminClosedComment": false,
+          "commentPermission": "censor",
+          "canComment": {
+            "reason": "",
+            "status": true
+          },
+          "reshipmentSettings": "allowed",
+          "content": "\u003Ch2\u003E应急管理部派工作组赴湖北省十堰市燃气爆炸事故现场指导救援\u003C\u002Fh2\u003E\u003Cp\u003E应急管理部网站消息，6月13日6时30分，湖北十堰市张湾区艳湖小区发生燃气爆炸事故，截至上午11时，已搜救出144人，目前均在医院接受救治，其中重伤37人，死亡11人。\u003C\u002Fp\u003E\u003Cp\u003E接报后，应急管理部部长黄明立即赶到部指挥中心，视频连线湖北省应急管理厅、省消防救援总队，与在现场的十堰市政府和消防救援支队负责同志通电话，调度了解事故有关情况，要求全力抢险救援，全力救治伤员，尽快核准人数，加强疏散警戒，对中心区域细致搜救，对周边区域深入摸排，严防次生灾害，并派出应急管理部副部长宋元明带队的工作组赶赴现场指导事故处置工作。周学文、琼色、张永利等部领导参加调度。\u003C\u002Fp\u003E\u003Cp\u003E当地消防救援队伍已派出38车173名指战员带6头搜救犬到场处置。（应急管理部）\u003C\u002Fp\u003E\u003Chr\u002F\u003E\u003Cp\u003E13日6时30分，湖北省十堰市张湾区艳湖小区发生燃气爆炸事故。截至11时，前方现场救援指挥部搜救出144人，目前均在医院接受救治，其中重伤37人，死亡11人。事故发生后，湖北省委书记应勇第一时间作出批示，省委副书记、省长王忠林正赶往现场组织救援，事故原因正在调查中。\u003C\u002Fp\u003E\u003Cfigure data-size=\"normal\"\u003E\u003Cnoscript\u003E\u003Cimg src=\"https:\u002F\u002Fpic1.zhimg.com\u002F50\u002Fv2-82c91fcd64cee9e4bb637eec44287f1b_hd.jpg?source=1940ef5c\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"540\" data-default-watermark-src=\"https:\u002F\u002Fpic3.zhimg.com\u002F50\u002Fv2-6c6b66562b7d36890842b7f4af7d8a5a_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https:\u002F\u002Fpic4.zhimg.com\u002Fv2-82c91fcd64cee9e4bb637eec44287f1b_r.jpg?source=1940ef5c\"\u002F\u003E\u003C\u002Fnoscript\u003E\u003Cimg src=\"data:image\u002Fsvg+xml;utf8,&lt;svg xmlns=&#39;http:\u002F\u002Fwww.w3.org\u002F2000\u002Fsvg&#39; width=&#39;720&#39; height=&#39;540&#39;&gt;&lt;\u002Fsvg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"540\" data-default-watermark-src=\"https:\u002F\u002Fpic3.zhimg.com\u002F50\u002Fv2-6c6b66562b7d36890842b7f4af7d8a5a_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"720\" data-original=\"https:\u002F\u002Fpic4.zhimg.com\u002Fv2-82c91fcd64cee9e4bb637eec44287f1b_r.jpg?source=1940ef5c\" data-actualsrc=\"https:\u002F\u002Fpic1.zhimg.com\u002F50\u002Fv2-82c91fcd64cee9e4bb637eec44287f1b_hd.jpg?source=1940ef5c\"\u002F\u003E\u003C\u002Ffigure\u003E\u003Cfigure data-size=\"normal\"\u003E\u003Cnoscript\u003E\u003Cimg src=\"https:\u002F\u002Fpic4.zhimg.com\u002F50\u002Fv2-0a6ce124e6b153616eeb37c8e7413b1c_hd.jpg?source=1940ef5c\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"600\" data-default-watermark-src=\"https:\u002F\u002Fpic3.zhimg.com\u002F50\u002Fv2-f87e9a907bd874b2efd484d3651331b1_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb\" width=\"800\" data-original=\"https:\u002F\u002Fpic4.zhimg.com\u002Fv2-0a6ce124e6b153616eeb37c8e7413b1c_r.jpg?source=1940ef5c\"\u002F\u003E\u003C\u002Fnoscript\u003E\u003Cimg src=\"data:image\u002Fsvg+xml;utf8,&lt;svg xmlns=&#39;http:\u002F\u002Fwww.w3.org\u002F2000\u002Fsvg&#39; width=&#39;800&#39; height=&#39;600&#39;&gt;&lt;\u002Fsvg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"600\" data-default-watermark-src=\"https:\u002F\u002Fpic3.zhimg.com\u002F50\u002Fv2-f87e9a907bd874b2efd484d3651331b1_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"800\" data-original=\"https:\u002F\u002Fpic4.zhimg.com\u002Fv2-0a6ce124e6b153616eeb37c8e7413b1c_r.jpg?source=1940ef5c\" data-actualsrc=\"https:\u002F\u002Fpic4.zhimg.com\u002F50\u002Fv2-0a6ce124e6b153616eeb37c8e7413b1c_hd.jpg?source=1940ef5c\"\u002F\u003E\u003C\u002Ffigure\u003E\u003Cp\u003E事故发生后，十堰市民自发踊跃报名献血，十堰市中心血站呼吁广大市民错峰献血，不要扎堆。\u003Cb\u003E目前，全市可以献血的4个地方分别是五堰南街口献血屋 、六堰广场献血屋、十堰寿康生活广场献血屋、白浪东城国际采血点。\u003C\u002Fb\u003E有团体预约献血或有问题咨询可拨打电话13617197790、18507289567。（来源：新闻联播）\u003C\u002Fp\u003E\u003Cfigure data-size=\"normal\"\u003E\u003Cnoscript\u003E\u003Cimg src=\"https:\u002F\u002Fpic4.zhimg.com\u002F50\u002Fv2-29c11a612ab1491f90237ed6d41ee68b_hd.jpg?source=1940ef5c\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"847\" data-rawheight=\"393\" data-default-watermark-src=\"https:\u002F\u002Fpic1.zhimg.com\u002F50\u002Fv2-e7c291050fd820260ae9976a60683d7e_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb\" width=\"847\" data-original=\"https:\u002F\u002Fpic4.zhimg.com\u002Fv2-29c11a612ab1491f90237ed6d41ee68b_r.jpg?source=1940ef5c\"\u002F\u003E\u003C\u002Fnoscript\u003E\u003Cimg src=\"data:image\u002Fsvg+xml;utf8,&lt;svg xmlns=&#39;http:\u002F\u002Fwww.w3.org\u002F2000\u002Fsvg&#39; width=&#39;847&#39; height=&#39;393&#39;&gt;&lt;\u002Fsvg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"847\" data-rawheight=\"393\" data-default-watermark-src=\"https:\u002F\u002Fpic1.zhimg.com\u002F50\u002Fv2-e7c291050fd820260ae9976a60683d7e_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"847\" data-original=\"https:\u002F\u002Fpic4.zhimg.com\u002Fv2-29c11a612ab1491f90237ed6d41ee68b_r.jpg?source=1940ef5c\" data-actualsrc=\"https:\u002F\u002Fpic4.zhimg.com\u002F50\u002Fv2-29c11a612ab1491f90237ed6d41ee68b_hd.jpg?source=1940ef5c\"\u002F\u003E\u003C\u002Ffigure\u003E\u003Cp\u003E\u003C\u002Fp\u003E\u003Cp\u003E\u003C\u002Fp\u003E",
+          "editableContent": "",
+          "excerpt": "应急管理部派工作组赴湖北省十堰市燃气爆炸事故现场指导救援应急管理部网站消息，6月13日6时30分，湖北十堰市张湾区艳湖小区发生燃气爆炸事故，截至上午11时，已搜救出144人，目前均在医院接受救治，其中重伤37人，死亡11人。 接报后，应急管理部部长黄明立即赶到部指挥中心，视频连线湖北省应急管理厅、省消防救援总队，与在现场的十堰市政府和消防救援支队负责同志通电话，调度了解事故有关情况，要求全力抢险救援，全力救治伤…",
+          "collapsedBy": "nobody",
+          "collapseReason": "",
+          "annotationAction": null,
+          "markInfos": [],
+          "relevantInfo": {
+            "isRelevant": false,
+            "relevantType": "",
+            "relevantText": ""
+          },
+          "suggestEdit": {
+            "reason": "",
+            "status": false,
+            "tip": "",
+            "title": "",
+            "unnormalDetails": {
+              "status": "",
+              "description": "",
+              "reason": "",
+              "reasonId": 0,
+              "note": ""
+            },
+            "url": ""
+          },
+          "isLabeled": false,
+          "settings": {
+            "tableOfContent": {
+              "enabled": false
+            }
+          },
+          "contentMark": null,
+          "rewardInfo": {
+            "canOpenReward": false,
+            "isRewardable": false,
+            "rewardMemberCount": 0,
+            "rewardTotalMoney": 0,
+            "tagline": ""
+          },
+          "relationship": {
+            "isAuthor": false,
+            "isAuthorized": false,
+            "isNothelp": false,
+            "isThanked": false,
+            "isRecognized": false,
+            "voting": 0,
+            "upvotedFollowees": []
+          },
+          "adAnswer": null
+        },
+        "1937963860": {
+          "id": 1937963860,
+          "type": "answer",
+          "answerType": "normal",
+          "question": {
+            "type": "question",
+            "id": 464751425,
+            "title": "湖北十堰燃气爆炸事件已致12人死亡，37人重伤。可能是什么原因造成的？",
+            "questionType": "normal",
+            "created": 1623552204,
+            "updatedTime": 1623566232,
+            "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fquestions\u002F464751425",
+            "relationship": {}
+          },
+          "author": {
+            "id": "6993d4c6eac6ae67561c3603685ac30d",
+            "urlToken": "kun-ming-hongxiaofan",
+            "name": "最爱周慧敏",
+            "avatarUrl": "https:\u002F\u002Fpic1.zhimg.com\u002Fv2-2f61baa61c05e49726d5abd9f99f1831_l.jpg?source=1940ef5c",
+            "avatarUrlTemplate": "https:\u002F\u002Fpic2.zhimg.com\u002Fv2-2f61baa61c05e49726d5abd9f99f1831.jpg?source=1940ef5c",
+            "isOrg": false,
+            "type": "people",
+            "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fpeople\u002F6993d4c6eac6ae67561c3603685ac30d",
+            "userType": "people",
+            "headline": "试验一下周慧敏的颜值是否有高关注度",
+            "badge": [],
+            "badgeV2": {
+              "title": "",
+              "mergedBadges": [],
+              "detailBadges": [],
+              "icon": "",
+              "nightIcon": ""
+            },
+            "gender": -1,
+            "isAdvertiser": false,
+            "followerCount": 33,
+            "isFollowed": false,
+            "isPrivacy": false,
+            "vipInfo": {
+              "isVip": false
+            }
+          },
+          "url": "https:\u002F\u002Fwww.zhihu.com\u002Fapi\u002Fv4\u002Fanswers\u002F1937963860",
+          "isCollapsed": false,
+          "createdTime": 1623563412,
+          "updatedTime": 1623563909,
+          "extras": "",
+          "isCopyable": true,
+          "isNormal": true,
+          "voteupCount": 318,
+          "commentCount": 58,
+          "isSticky": false,
+          "adminClosedComment": false,
+          "commentPermission": "all",
+          "canComment": {
+            "reason": "",
+            "status": true
+          },
+          "reshipmentSettings": "allowed",
+          "content": "\u003Cp\u003E希望伤者平安！\u003C\u002Fp\u003E\u003Cp\u003E我曾经路过一个十字路口，闻到一股煤气泄露的臭味，低头一看脚下标志的窨井盖，马上到了对街拨打燃气报警电话，后来过了一个小时，对方打来回访说下次我遇到同样情形要再次拨打报警电话。\u003C\u002Fp\u003E\u003Cp\u003E说实话我希望这是最后一次拨打这个电话！\u003C\u002Fp\u003E\u003Cp\u003E而窨井盖就在公交车站不远处，来往人很多却没几个人注意到！\u003C\u002Fp\u003E",
+          "editableContent": "",
+          "excerpt": "希望伤者平安！ 我曾经路过一个十字路口，闻到一股煤气泄露的臭味，低头一看脚下标志的窨井盖，马上到了对街拨打燃气报警电话，后来过了一个小时，对方打来回访说下次我遇到同样情形要再次拨打报警电话。 说实话我希望这是最后一次拨打这个电话！ 而窨井盖就在公交车站不远处，来往人很多却没几个人注意到！",
+          "collapsedBy": "nobody",
+          "collapseReason": "",
+          "annotationAction": null,
+          "markInfos": [],
+          "relevantInfo": {
+            "isRelevant": false,
+            "relevantType": "",
+            "relevantText": ""
+          },
+          "suggestEdit": {
+            "reason": "",
+            "status": false,
+            "tip": "",
+            "title": "",
+            "unnormalDetails": {
+              "status": "",
+              "description": "",
+              "reason": "",
+              "reasonId": 0,
+              "note": ""
+            },
+            "url": ""
+          },
+          "isLabeled": false,
+          "contentMark": null,
+          "rewardInfo": {
+            "canOpenReward": false,
+            "isRewardable": false,
+            "rewardMemberCount": 0,
+            "rewardTotalMoney": 0,
+            "tagline": ""
+          },
+          "relationship": {
+            "isAuthor": false,
+            "isAuthorized": false,
+            "isNothelp": false,
+            "isThanked": false,
+            "isRecognized": false,
+            "voting": 0,
+            "upvotedFollowees": []
+          },
+          "adAnswer": null
+        }
+      }
+    }
+  },
+  "subAppName": "main"
+}
