@@ -13,3 +13,19 @@
 - 第三方库：
     1. requests：HTTP库，用于网络访问；
     2. beautifulsoup：网页解释库，提供lxml的支持
+
+## 测试支持
+- 修改DBFrame.py中的address=“你的数据库位置” 链接本地或远程数据库
+- 修改answer、comment、hot、question、topic、user文件夹下的py文件，
+
+        ···
+            def __init__(self, cookie: str):  
+                super(answerSpyder, self).__init__("answer")  
+                DBIF.__init__(self, username='远程链接数据库的用户名', passwd="远程链接数据库的密码")  
+        ···
+- 运行
+    - 先运行topic.py至自动结束，话题数据少1w左右，很快就爬取结束
+    - 其后先运行question.py一段时间（10分钟-1小时不等）、再运行answer、comment、user的py文件，多进程爬取相关数据。（只在最初爬取阶段按该顺序执行）
+    - 上述步骤执行过后，以后中断继续爬取就可同时运行question、answer、comment、user的py文件
+
+## 注：每个文件夹下提前删除json文件，现存json为个人使用时的日志表，一定程度影响预期数据效果。
