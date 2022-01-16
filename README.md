@@ -13,6 +13,7 @@
 - 第三方库：
     1. requests：HTTP库，用于网络访问；
     2. beautifulsoup：网页解释库，提供lxml的支持
+    3. sqlalchemy：关系型数据库的orm库，提供简易明了的mysql操作
 
 ## 测试支持
 - 修改DBFrame.py
