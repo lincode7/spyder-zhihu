@@ -24,6 +24,8 @@
 - 修改answer、comment、hot、question、topic、user文件夹下的py文件，
 
         ···
+        from Tables import * # 找不到引入位置可尝试 from src.Tables import *
+        ···
             def __init__(self, cookie: str):  
                 super(answerSpyder, self).__init__("answer")  
                 DBIF.__init__(self, username='远程链接数据库的用户名', passwd="远程链接数据库的密码")  
