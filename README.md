@@ -16,6 +16,11 @@
     3. sqlalchemy：关系型数据库的orm库，提供简易明了的mysql操作
 
 ## 测试支持
+- 检查各py文件的引入路径
+
+        ···
+        from Tables import * # 找不到引入位置可尝试 from src.Tables import *
+        ···
 - 修改DBFrame.py
 
         ···
@@ -23,8 +28,6 @@
         ···
 - 修改answer、comment、hot、question、topic、user文件夹下的py文件，
 
-        ···
-        from Tables import * # 找不到引入位置可尝试 from src.Tables import *
         ···
             def __init__(self, cookie: str):  
                 super(answerSpyder, self).__init__("answer")  
