@@ -15,7 +15,11 @@
     2. beautifulsoup：网页解释库，提供lxml的支持
 
 ## 测试支持
-- 修改DBFrame.py中的address=“你的数据库位置” 链接本地或远程数据库
+- 修改DBFrame.py
+
+        ···
+            def __init__(self, username, passwd, address="你的远程或本地数据库链接"):
+        ···
 - 修改answer、comment、hot、question、topic、user文件夹下的py文件，
 
         ···
